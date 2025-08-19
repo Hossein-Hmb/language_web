@@ -1,0 +1,362 @@
+[
+  {
+    "id": "kanji_1",
+    "character": "一",
+    "onyomi": ["いち", "いつ"],
+    "kunyomi": ["ひとつ", "ひと"],
+    "meaning": "one",
+    "level": "N5",
+    "strokeCount": 1,
+    "frequency": 6,
+    "difficulty": 1,
+    "radicals": ["一"],
+    "tags": ["numbers", "basic", "counting"],
+    "examples": [
+      {
+        "word": "一月",
+        "reading": "いちがつ",
+        "meaning": "January"
+      },
+      {
+        "word": "一日",
+        "reading": "いちにち",
+        "meaning": "one day"
+      },
+      {
+        "word": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
+      }
+    ],
+    "mnemonics": "This kanji looks like the number 1 - one horizontal line",
+    "usageNotes": "Used in counting and dates. 一日 can be read as 'いちにち' (one day) or 'ついたち' (first day of month)",
+    "relatedKanji": ["二", "三", "十"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_2",
+    "character": "二",
+    "onyomi": ["に"],
+    "kunyomi": ["ふたつ", "ふた"],
+    "meaning": "two",
+    "level": "N5",
+    "strokeCount": 2,
+    "frequency": 9,
+    "difficulty": 1,
+    "radicals": ["二"],
+    "tags": ["numbers", "basic", "counting"],
+    "examples": [
+      {
+        "word": "二月",
+        "reading": "にがつ",
+        "meaning": "February"
+      },
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "two people"
+      },
+      {
+        "word": "二日",
+        "reading": "ふつか",
+        "meaning": "second day of month"
+      }
+    ],
+    "mnemonics": "Two horizontal lines = two",
+    "usageNotes": "Basic number kanji used in counting and dates",
+    "relatedKanji": ["一", "三", "十"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_3",
+    "character": "三",
+    "onyomi": ["さん"],
+    "kunyomi": ["みっつ", "み"],
+    "meaning": "three",
+    "level": "N5",
+    "strokeCount": 3,
+    "frequency": 12,
+    "difficulty": 1,
+    "radicals": ["三"],
+    "tags": ["numbers", "basic", "counting"],
+    "examples": [
+      {
+        "word": "三月",
+        "reading": "さんがつ",
+        "meaning": "March"
+      },
+      {
+        "word": "三日",
+        "reading": "みっか",
+        "meaning": "third day of month"
+      },
+      {
+        "word": "三人",
+        "reading": "さんにん",
+        "meaning": "three people"
+      }
+    ],
+    "mnemonics": "Three horizontal lines = three",
+    "usageNotes": "Basic number kanji, note different readings for different contexts",
+    "relatedKanji": ["一", "二", "十"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_4",
+    "character": "四",
+    "onyomi": ["し"],
+    "kunyomi": ["よん", "よっつ"],
+    "meaning": "four",
+    "level": "N5",
+    "strokeCount": 5,
+    "frequency": 15,
+    "difficulty": 2,
+    "radicals": ["囗", "儿"],
+    "tags": ["numbers", "basic", "counting"],
+    "examples": [
+      {
+        "word": "四月",
+        "reading": "しがつ",
+        "meaning": "April"
+      },
+      {
+        "word": "四日",
+        "reading": "よっか",
+        "meaning": "fourth day of month"
+      },
+      {
+        "word": "四人",
+        "reading": "よにん",
+        "meaning": "four people"
+      }
+    ],
+    "mnemonics": "A mouth (口) with legs (儿) inside",
+    "usageNotes": "よん is preferred over し in modern counting to avoid confusion with 死 (death)",
+    "relatedKanji": ["一", "二", "三", "五"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_5",
+    "character": "五",
+    "onyomi": ["ご"],
+    "kunyomi": ["いつつ", "いつ"],
+    "meaning": "five",
+    "level": "N5",
+    "strokeCount": 4,
+    "frequency": 18,
+    "difficulty": 2,
+    "radicals": ["二", "儿"],
+    "tags": ["numbers", "basic", "counting"],
+    "examples": [
+      {
+        "word": "五月",
+        "reading": "ごがつ",
+        "meaning": "May"
+      },
+      {
+        "word": "五日",
+        "reading": "いつか",
+        "meaning": "fifth day of month"
+      },
+      {
+        "word": "五人",
+        "reading": "ごにん",
+        "meaning": "five people"
+      }
+    ],
+    "mnemonics": "Looks like a sideways 5",
+    "usageNotes": "Common number kanji used in dates and counting",
+    "relatedKanji": ["四", "六", "十"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_6",
+    "character": "人",
+    "onyomi": ["じん", "にん"],
+    "kunyomi": ["ひと"],
+    "meaning": "person, human",
+    "level": "N5",
+    "strokeCount": 2,
+    "frequency": 5,
+    "difficulty": 1,
+    "radicals": ["人"],
+    "tags": ["people", "basic", "fundamental"],
+    "examples": [
+      {
+        "word": "日本人",
+        "reading": "にほんじん",
+        "meaning": "Japanese person"
+      },
+      {
+        "word": "一人",
+        "reading": "ひとり",
+        "meaning": "one person"
+      },
+      {
+        "word": "大人",
+        "reading": "おとな",
+        "meaning": "adult"
+      }
+    ],
+    "mnemonics": "Looks like a person walking with two legs",
+    "usageNotes": "One of the most fundamental kanji. Reading changes depending on context (じん vs にん)",
+    "relatedKanji": ["大", "小", "子"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_7",
+    "character": "日",
+    "onyomi": ["にち", "じつ"],
+    "kunyomi": ["ひ", "か"],
+    "meaning": "day, sun, Japan",
+    "level": "N5",
+    "strokeCount": 4,
+    "frequency": 1,
+    "difficulty": 2,
+    "radicals": ["日"],
+    "tags": ["time", "basic", "nature", "fundamental"],
+    "examples": [
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "meaning": "today"
+      },
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": "Japan"
+      },
+      {
+        "word": "日曜日",
+        "reading": "にちようび",
+        "meaning": "Sunday"
+      }
+    ],
+    "mnemonics": "Originally a circle representing the sun, later simplified to this rectangular form",
+    "usageNotes": "Extremely common kanji with multiple meanings and readings. Context determines pronunciation",
+    "relatedKanji": ["月", "年", "時"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_8",
+    "character": "月",
+    "onyomi": ["げつ", "がつ"],
+    "kunyomi": ["つき"],
+    "meaning": "month, moon",
+    "level": "N5",
+    "strokeCount": 4,
+    "frequency": 3,
+    "difficulty": 2,
+    "radicals": ["月"],
+    "tags": ["time", "basic", "nature", "calendar"],
+    "examples": [
+      {
+        "word": "一月",
+        "reading": "いちがつ",
+        "meaning": "January"
+      },
+      {
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": "Monday"
+      },
+      {
+        "word": "今月",
+        "reading": "こんげつ",
+        "meaning": "this month"
+      }
+    ],
+    "mnemonics": "Originally depicted a crescent moon",
+    "usageNotes": "Used for months (がつ) and the word moon (つき). Also appears in body parts as 'meat' radical",
+    "relatedKanji": ["日", "年", "週"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_9",
+    "character": "大",
+    "onyomi": ["だい", "たい"],
+    "kunyomi": ["おおきい", "おお"],
+    "meaning": "big, large, great",
+    "level": "N5",
+    "strokeCount": 3,
+    "frequency": 7,
+    "difficulty": 1,
+    "radicals": ["大"],
+    "tags": ["size", "basic", "adjective"],
+    "examples": [
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "university"
+      },
+      {
+        "word": "大人",
+        "reading": "おとな",
+        "meaning": "adult"
+      },
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "meaning": "big"
+      }
+    ],
+    "mnemonics": "Person (人) with arms stretched wide to show something big",
+    "usageNotes": "Common adjective kanji, often used in compounds meaning 'great' or 'major'",
+    "relatedKanji": ["小", "中", "人"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "kanji_10",
+    "character": "小",
+    "onyomi": ["しょう"],
+    "kunyomi": ["ちいさい", "こ", "お"],
+    "meaning": "small, little",
+    "level": "N5",
+    "strokeCount": 3,
+    "frequency": 11,
+    "difficulty": 2,
+    "radicals": ["小"],
+    "tags": ["size", "basic", "adjective"],
+    "examples": [
+      {
+        "word": "小学校",
+        "reading": "しょうがっこう",
+        "meaning": "elementary school"
+      },
+      {
+        "word": "小さい",
+        "reading": "ちいさい",
+        "meaning": "small"
+      },
+      {
+        "word": "小川",
+        "reading": "おがわ",
+        "meaning": "stream"
+      }
+    ],
+    "mnemonics": "Three small dots representing something small",
+    "usageNotes": "Opposite of 大. Used in many educational and diminutive contexts",
+    "relatedKanji": ["大", "中", "少"],
+    "audioUrl": null,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]
