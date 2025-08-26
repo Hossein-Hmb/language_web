@@ -1,0 +1,4162 @@
+[
+  {
+    "character": "丸",
+    "on_yomi": ["がん"],
+    "kun_yomi": ["まる"],
+    "meaning": "circle, round",
+    "jlpt_level_id": 3,
+    "stroke_count": 3,
+    "radicals": ["丶"],
+    "examples": ["丸い", "弾丸"]
+  },
+  {
+    "character": "久",
+    "on_yomi": ["きゅう"],
+    "kun_yomi": ["ひさしい"],
+    "meaning": "long time",
+    "jlpt_level_id": 3,
+    "stroke_count": 3,
+    "radicals": ["丿"],
+    "examples": ["久しぶり", "永久"]
+  },
+  {
+    "character": "才",
+    "on_yomi": ["さい"],
+    "kun_yomi": [],
+    "meaning": "talent, age",
+    "jlpt_level_id": 3,
+    "stroke_count": 3,
+    "radicals": ["扌"],
+    "examples": ["天才", "何才"]
+  },
+  {
+    "character": "支",
+    "on_yomi": ["し"],
+    "kun_yomi": ["ささえる"],
+    "meaning": "support",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["支"],
+    "examples": ["支える", "支持"]
+  },
+  {
+    "character": "戸",
+    "on_yomi": ["こ"],
+    "kun_yomi": ["と"],
+    "meaning": "door",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["戶"],
+    "examples": ["戸", "戸籍"]
+  },
+  {
+    "character": "欠",
+    "on_yomi": ["けつ"],
+    "kun_yomi": ["かける"],
+    "meaning": "lack",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["人"],
+    "examples": ["欠ける", "欠席"]
+  },
+  {
+    "character": "王",
+    "on_yomi": ["おう"],
+    "kun_yomi": [],
+    "meaning": "king",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["王"],
+    "examples": ["王様", "女王"]
+  },
+  {
+    "character": "化",
+    "on_yomi": ["か"],
+    "kun_yomi": ["ばける"],
+    "meaning": "change, transform",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["亻"],
+    "examples": ["文化", "変化"]
+  },
+  {
+    "character": "内",
+    "on_yomi": ["ない"],
+    "kun_yomi": ["うち"],
+    "meaning": "inside",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["冂"],
+    "examples": ["内容", "内側"]
+  },
+  {
+    "character": "反",
+    "on_yomi": ["はん"],
+    "kun_yomi": ["そる"],
+    "meaning": "oppose",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["又"],
+    "examples": ["反対", "違反"]
+  },
+  {
+    "character": "比",
+    "on_yomi": ["ひ"],
+    "kun_yomi": ["くらべる"],
+    "meaning": "compare",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["比"],
+    "examples": ["比べる", "比例"]
+  },
+  {
+    "character": "夫",
+    "on_yomi": ["ふ"],
+    "kun_yomi": ["おっと"],
+    "meaning": "husband",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["大"],
+    "examples": ["夫", "夫婦"]
+  },
+  {
+    "character": "仏",
+    "on_yomi": ["ぶつ"],
+    "kun_yomi": ["ほとけ"],
+    "meaning": "Buddha, France",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["亻"],
+    "examples": ["仏教", "仏"]
+  },
+  {
+    "character": "毛",
+    "on_yomi": ["もう"],
+    "kun_yomi": ["け"],
+    "meaning": "hair, fur",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["毛"],
+    "examples": ["毛", "羊毛"]
+  },
+  {
+    "character": "予",
+    "on_yomi": ["よ"],
+    "kun_yomi": [],
+    "meaning": "beforehand",
+    "jlpt_level_id": 3,
+    "stroke_count": 4,
+    "radicals": ["亅"],
+    "examples": ["予定", "予習"]
+  },
+  {
+    "character": "由",
+    "on_yomi": ["ゆ"],
+    "kun_yomi": ["よし"],
+    "meaning": "reason, origin",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["田"],
+    "examples": ["理由", "自由"]
+  },
+  {
+    "character": "未",
+    "on_yomi": ["み"],
+    "kun_yomi": [],
+    "meaning": "not yet",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["木"],
+    "examples": ["未来", "未定"]
+  },
+  {
+    "character": "布",
+    "on_yomi": ["ふ"],
+    "kun_yomi": ["ぬの"],
+    "meaning": "cloth",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["巾"],
+    "examples": ["布", "布団"]
+  },
+  {
+    "character": "包",
+    "on_yomi": ["ほう"],
+    "kun_yomi": ["つつむ"],
+    "meaning": "wrap",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["勹"],
+    "examples": ["包む", "包装"]
+  },
+  {
+    "character": "末",
+    "on_yomi": ["まつ"],
+    "kun_yomi": ["すえ"],
+    "meaning": "end, tip",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["木"],
+    "examples": ["週末", "末"]
+  },
+  {
+    "character": "平",
+    "on_yomi": ["へい"],
+    "kun_yomi": ["たいら"],
+    "meaning": "flat, peace",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["干"],
+    "examples": ["平和", "平日"]
+  },
+  {
+    "character": "辺",
+    "on_yomi": ["へん"],
+    "kun_yomi": ["あたり"],
+    "meaning": "area, vicinity",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["辶"],
+    "examples": ["辺り", "周辺"]
+  },
+  {
+    "character": "氷",
+    "on_yomi": ["ひょう"],
+    "kun_yomi": ["こおり"],
+    "meaning": "ice",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["冫"],
+    "examples": ["氷", "氷山"]
+  },
+  {
+    "character": "付",
+    "on_yomi": ["ふ"],
+    "kun_yomi": ["つける"],
+    "meaning": "attach",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["亻"],
+    "examples": ["付ける", "付属"]
+  },
+  {
+    "character": "皮",
+    "on_yomi": ["ひ"],
+    "kun_yomi": ["かわ"],
+    "meaning": "skin",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["皮"],
+    "examples": ["皮", "皮膚"]
+  },
+  {
+    "character": "犯",
+    "on_yomi": ["はん"],
+    "kun_yomi": ["おかす"],
+    "meaning": "crime",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["犭"],
+    "examples": ["犯罪", "犯す"]
+  },
+  {
+    "character": "必",
+    "on_yomi": ["ひつ"],
+    "kun_yomi": ["かならず"],
+    "meaning": "certain, inevitable",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["心"],
+    "examples": ["必要", "必ず"]
+  },
+  {
+    "character": "石",
+    "on_yomi": ["せき"],
+    "kun_yomi": ["いし"],
+    "meaning": "stone",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["石"],
+    "examples": ["石", "宝石"]
+  },
+  {
+    "character": "他",
+    "on_yomi": ["た"],
+    "kun_yomi": ["ほか"],
+    "meaning": "other",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["亻"],
+    "examples": ["他人", "その他"]
+  },
+  {
+    "character": "打",
+    "on_yomi": ["だ"],
+    "kun_yomi": ["うつ"],
+    "meaning": "hit, strike",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["扌"],
+    "examples": ["打つ", "打者"]
+  },
+  {
+    "character": "加",
+    "on_yomi": ["か"],
+    "kun_yomi": ["くわえる"],
+    "meaning": "add",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["力"],
+    "examples": ["参加", "加える"]
+  },
+  {
+    "character": "可",
+    "on_yomi": ["か"],
+    "kun_yomi": [],
+    "meaning": "possible",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["口"],
+    "examples": ["可能", "可決"]
+  },
+  {
+    "character": "央",
+    "on_yomi": ["おう"],
+    "kun_yomi": [],
+    "meaning": "center",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["大"],
+    "examples": ["中央", "中央駅"]
+  },
+  {
+    "character": "刊",
+    "on_yomi": ["かん"],
+    "kun_yomi": [],
+    "meaning": "publish",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["刂"],
+    "examples": ["刊行", "週刊"]
+  },
+  {
+    "character": "玉",
+    "on_yomi": ["ぎょく"],
+    "kun_yomi": ["たま"],
+    "meaning": "jewel, ball",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["玉"],
+    "examples": ["玉", "宝玉"]
+  },
+  {
+    "character": "旧",
+    "on_yomi": ["きゅう"],
+    "kun_yomi": ["ふるい"],
+    "meaning": "old, former",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["日"],
+    "examples": ["旧正月", "旧友"]
+  },
+  {
+    "character": "号",
+    "on_yomi": ["ごう"],
+    "kun_yomi": [],
+    "meaning": "number, edition",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["口"],
+    "examples": ["番号", "信号"]
+  },
+  {
+    "character": "皿",
+    "on_yomi": [],
+    "kun_yomi": ["さら"],
+    "meaning": "plate, dish",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["皿"],
+    "examples": ["皿", "灰皿"]
+  },
+  {
+    "character": "札",
+    "on_yomi": ["さつ"],
+    "kun_yomi": ["ふだ"],
+    "meaning": "tag, paper money",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["木"],
+    "examples": ["札", "千円札"]
+  },
+  {
+    "character": "史",
+    "on_yomi": ["し"],
+    "kun_yomi": [],
+    "meaning": "history",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["口"],
+    "examples": ["歴史", "史上"]
+  },
+  {
+    "character": "失",
+    "on_yomi": ["しつ"],
+    "kun_yomi": ["うしなう"],
+    "meaning": "lose",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["大"],
+    "examples": ["失敗", "失う"]
+  },
+  {
+    "character": "示",
+    "on_yomi": ["じ"],
+    "kun_yomi": ["しめす"],
+    "meaning": "indicate, show",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["示"],
+    "examples": ["表示", "示す"]
+  },
+  {
+    "character": "申",
+    "on_yomi": ["しん"],
+    "kun_yomi": ["もうす"],
+    "meaning": "say, report",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["田"],
+    "examples": ["申す", "申し込み"]
+  },
+  {
+    "character": "礼",
+    "on_yomi": ["れい"],
+    "kun_yomi": [],
+    "meaning": "thanks, ceremony",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["示"],
+    "examples": ["礼", "失礼"]
+  },
+  {
+    "character": "令",
+    "on_yomi": ["れい"],
+    "kun_yomi": [],
+    "meaning": "command, order",
+    "jlpt_level_id": 3,
+    "stroke_count": 5,
+    "radicals": ["人"],
+    "examples": ["命令", "令和"]
+  },
+  {
+    "character": "列",
+    "on_yomi": ["れつ"],
+    "kun_yomi": [],
+    "meaning": "line, row",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["刂"],
+    "examples": ["列車", "行列"]
+  },
+  {
+    "character": "老",
+    "on_yomi": ["ろう"],
+    "kun_yomi": ["おいる"],
+    "meaning": "old, aged",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["耂"],
+    "examples": ["老人", "老いる"]
+  },
+  {
+    "character": "式",
+    "on_yomi": ["しき"],
+    "kun_yomi": [],
+    "meaning": "ceremony, formula",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["弋"],
+    "examples": ["式", "形式"]
+  },
+  {
+    "character": "州",
+    "on_yomi": ["しゅう"],
+    "kun_yomi": [],
+    "meaning": "state, province",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["川"],
+    "examples": ["州", "本州"]
+  },
+  {
+    "character": "寺",
+    "on_yomi": ["じ"],
+    "kun_yomi": ["てら"],
+    "meaning": "temple",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["寸"],
+    "examples": ["寺院", "金閣寺"]
+  },
+  {
+    "character": "次",
+    "on_yomi": ["じ"],
+    "kun_yomi": ["つぎ"],
+    "meaning": "next",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["欠"],
+    "examples": ["次", "目次"]
+  },
+  {
+    "character": "守",
+    "on_yomi": ["しゅ"],
+    "kun_yomi": ["まもる"],
+    "meaning": "protect, guard",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["宀"],
+    "examples": ["守る", "守衛"]
+  },
+  {
+    "character": "糸",
+    "on_yomi": ["し"],
+    "kun_yomi": ["いと"],
+    "meaning": "thread",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["糸"],
+    "examples": ["糸", "毛糸"]
+  },
+  {
+    "character": "在",
+    "on_yomi": ["ざい"],
+    "kun_yomi": [],
+    "meaning": "exist, be",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["土"],
+    "examples": ["存在", "現在"]
+  },
+  {
+    "character": "再",
+    "on_yomi": ["さい"],
+    "kun_yomi": ["ふたたび"],
+    "meaning": "again, re-",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["冂"],
+    "examples": ["再生", "再び"]
+  },
+  {
+    "character": "向",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["むく"],
+    "meaning": "face, toward",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["口"],
+    "examples": ["向く", "方向"]
+  },
+  {
+    "character": "交",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["まじわる"],
+    "meaning": "intersect, exchange",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["亠"],
+    "examples": ["交通", "交換"]
+  },
+  {
+    "character": "血",
+    "on_yomi": ["けつ"],
+    "kun_yomi": ["ち"],
+    "meaning": "blood",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["血"],
+    "examples": ["血液", "出血"]
+  },
+  {
+    "character": "件",
+    "on_yomi": ["けん"],
+    "kun_yomi": [],
+    "meaning": "matter, case",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["亻"],
+    "examples": ["事件", "条件"]
+  },
+  {
+    "character": "共",
+    "on_yomi": ["きょう"],
+    "kun_yomi": ["とも"],
+    "meaning": "together, both",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["八"],
+    "examples": ["共通", "共同"]
+  },
+  {
+    "character": "曲",
+    "on_yomi": ["きょく"],
+    "kun_yomi": ["まがる"],
+    "meaning": "bend, music",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["曰"],
+    "examples": ["曲がる", "曲"]
+  },
+  {
+    "character": "各",
+    "on_yomi": ["かく"],
+    "kun_yomi": ["おのおの"],
+    "meaning": "each",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["口"],
+    "examples": ["各自", "各国"]
+  },
+  {
+    "character": "印",
+    "on_yomi": ["いん"],
+    "kun_yomi": ["しるし"],
+    "meaning": "mark, seal",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["卩"],
+    "examples": ["印", "印刷"]
+  },
+  {
+    "character": "因",
+    "on_yomi": ["いん"],
+    "kun_yomi": ["よる"],
+    "meaning": "cause, factor",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["囗"],
+    "examples": ["原因", "因果"]
+  },
+  {
+    "character": "羽",
+    "on_yomi": ["う"],
+    "kun_yomi": ["はね"],
+    "meaning": "feather, wing",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["羽"],
+    "examples": ["羽", "羽毛"]
+  },
+  {
+    "character": "団",
+    "on_yomi": ["だん"],
+    "kun_yomi": [],
+    "meaning": "group",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["囗"],
+    "examples": ["団体", "団地"]
+  },
+  {
+    "character": "竹",
+    "on_yomi": ["ちく"],
+    "kun_yomi": ["たけ"],
+    "meaning": "bamboo",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["竹"],
+    "examples": ["竹", "竹林"]
+  },
+  {
+    "character": "仲",
+    "on_yomi": ["ちゅう"],
+    "kun_yomi": ["なか"],
+    "meaning": "relationship",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["亻"],
+    "examples": ["仲間", "仲良し"]
+  },
+  {
+    "character": "虫",
+    "on_yomi": ["ちゅう"],
+    "kun_yomi": ["むし"],
+    "meaning": "insect",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["虫"],
+    "examples": ["虫", "昆虫"]
+  },
+  {
+    "character": "兆",
+    "on_yomi": ["ちょう"],
+    "kun_yomi": ["きざす"],
+    "meaning": "omen, trillion",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["儿"],
+    "examples": ["兆し", "兆候"]
+  },
+  {
+    "character": "伝",
+    "on_yomi": ["でん"],
+    "kun_yomi": ["つたえる"],
+    "meaning": "transmit, convey",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["亻"],
+    "examples": ["伝える", "伝統"]
+  },
+  {
+    "character": "当",
+    "on_yomi": ["とう"],
+    "kun_yomi": ["あたる"],
+    "meaning": "hit, appropriate",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["田"],
+    "examples": ["当たる", "本当"]
+  },
+  {
+    "character": "成",
+    "on_yomi": ["せい"],
+    "kun_yomi": ["なる"],
+    "meaning": "become",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["戈"],
+    "examples": ["成功", "成長"]
+  },
+  {
+    "character": "全",
+    "on_yomi": ["ぜん"],
+    "kun_yomi": ["まったく"],
+    "meaning": "whole, all",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["入"],
+    "examples": ["全部", "完全"]
+  },
+  {
+    "character": "争",
+    "on_yomi": ["そう"],
+    "kun_yomi": ["あらそう"],
+    "meaning": "compete, dispute",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["亅"],
+    "examples": ["争う", "競争"]
+  },
+  {
+    "character": "任",
+    "on_yomi": ["にん"],
+    "kun_yomi": ["まかせる"],
+    "meaning": "responsibility, duty",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["亻"],
+    "examples": ["任務", "責任"]
+  },
+  {
+    "character": "米",
+    "on_yomi": ["べい"],
+    "kun_yomi": ["こめ"],
+    "meaning": "rice, America",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["米"],
+    "examples": ["米", "米国"]
+  },
+  {
+    "character": "両",
+    "on_yomi": ["りょう"],
+    "kun_yomi": [],
+    "meaning": "both",
+    "jlpt_level_id": 3,
+    "stroke_count": 6,
+    "radicals": ["一"],
+    "examples": ["両親", "両方"]
+  },
+  {
+    "character": "利",
+    "on_yomi": ["り"],
+    "kun_yomi": ["きく"],
+    "meaning": "benefit, profit",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["禾"],
+    "examples": ["便利", "利益"]
+  },
+  {
+    "character": "余",
+    "on_yomi": ["よ"],
+    "kun_yomi": ["あまる"],
+    "meaning": "surplus, extra",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["人"],
+    "examples": ["余裕", "余る"]
+  },
+  {
+    "character": "防",
+    "on_yomi": ["ぼう"],
+    "kun_yomi": ["ふせぐ"],
+    "meaning": "defend, prevent",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["阝"],
+    "examples": ["防ぐ", "防止"]
+  },
+  {
+    "character": "役",
+    "on_yomi": ["やく"],
+    "kun_yomi": [],
+    "meaning": "role, duty",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["彳"],
+    "examples": ["役に立つ", "役割"]
+  },
+  {
+    "character": "返",
+    "on_yomi": ["へん"],
+    "kun_yomi": ["かえす"],
+    "meaning": "return",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["辶"],
+    "examples": ["返す", "返信"]
+  },
+  {
+    "character": "判",
+    "on_yomi": ["はん"],
+    "kun_yomi": [],
+    "meaning": "judge, decision",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["刂"],
+    "examples": ["判定", "判断"]
+  },
+  {
+    "character": "臣",
+    "on_yomi": ["しん"],
+    "kun_yomi": [],
+    "meaning": "subject, retainer",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["臣"],
+    "examples": ["臣民", "大臣"]
+  },
+  {
+    "character": "身",
+    "on_yomi": ["しん"],
+    "kun_yomi": ["み"],
+    "meaning": "body, self",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["身"],
+    "examples": ["身", "自身"]
+  },
+  {
+    "character": "折",
+    "on_yomi": ["せつ"],
+    "kun_yomi": ["おる"],
+    "meaning": "fold, break",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["扌"],
+    "examples": ["折る", "骨折"]
+  },
+  {
+    "character": "努",
+    "on_yomi": ["ど"],
+    "kun_yomi": ["つとめる"],
+    "meaning": "effort, endeavor",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["力"],
+    "examples": ["努力", "努める"]
+  },
+  {
+    "character": "投",
+    "on_yomi": ["とう"],
+    "kun_yomi": ["なげる"],
+    "meaning": "throw, invest",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["扌"],
+    "examples": ["投げる", "投資"]
+  },
+  {
+    "character": "対",
+    "on_yomi": ["たい"],
+    "kun_yomi": [],
+    "meaning": "opposite, against",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["寸"],
+    "examples": ["対話", "反対"]
+  },
+  {
+    "character": "束",
+    "on_yomi": ["そく"],
+    "kun_yomi": ["たば"],
+    "meaning": "bundle",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["木"],
+    "examples": ["束", "約束"]
+  },
+  {
+    "character": "谷",
+    "on_yomi": ["こく"],
+    "kun_yomi": ["たに"],
+    "meaning": "valley",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["谷"],
+    "examples": ["谷", "渓谷"]
+  },
+  {
+    "character": "位",
+    "on_yomi": ["い"],
+    "kun_yomi": ["くらい"],
+    "meaning": "rank, position",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["亻"],
+    "examples": ["位置", "単位"]
+  },
+  {
+    "character": "囲",
+    "on_yomi": ["い"],
+    "kun_yomi": ["かこむ"],
+    "meaning": "surround",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["囗"],
+    "examples": ["囲む", "周囲"]
+  },
+  {
+    "character": "完",
+    "on_yomi": ["かん"],
+    "kun_yomi": [],
+    "meaning": "complete",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["宀"],
+    "examples": ["完成", "完全"]
+  },
+  {
+    "character": "角",
+    "on_yomi": ["かく"],
+    "kun_yomi": ["かど"],
+    "meaning": "corner, angle",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["角"],
+    "examples": ["角", "三角"]
+  },
+  {
+    "character": "快",
+    "on_yomi": ["かい"],
+    "kun_yomi": ["こころよい"],
+    "meaning": "pleasant",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["忄"],
+    "examples": ["快適", "愉快"]
+  },
+  {
+    "character": "改",
+    "on_yomi": ["かい"],
+    "kun_yomi": ["あらためる"],
+    "meaning": "change, renew",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["攵"],
+    "examples": ["改める", "改善"]
+  },
+  {
+    "character": "技",
+    "on_yomi": ["ぎ"],
+    "kun_yomi": ["わざ"],
+    "meaning": "skill, technique",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["扌"],
+    "examples": ["技術", "特技"]
+  },
+  {
+    "character": "局",
+    "on_yomi": ["きょく"],
+    "kun_yomi": [],
+    "meaning": "office, bureau",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["尸"],
+    "examples": ["郵便局", "局面"]
+  },
+  {
+    "character": "君",
+    "on_yomi": ["くん"],
+    "kun_yomi": ["きみ"],
+    "meaning": "you, ruler",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["口"],
+    "examples": ["君", "諸君"]
+  },
+  {
+    "character": "均",
+    "on_yomi": ["きん"],
+    "kun_yomi": [],
+    "meaning": "equal, uniform",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["土"],
+    "examples": ["平均", "均等"]
+  },
+  {
+    "character": "形",
+    "on_yomi": ["けい"],
+    "kun_yomi": ["かたち"],
+    "meaning": "shape, form",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["彡"],
+    "examples": ["形", "形式"]
+  },
+  {
+    "character": "決",
+    "on_yomi": ["けつ"],
+    "kun_yomi": ["きめる"],
+    "meaning": "decide",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["氵"],
+    "examples": ["決める", "決定"]
+  },
+  {
+    "character": "芸",
+    "on_yomi": ["げい"],
+    "kun_yomi": [],
+    "meaning": "art, craft",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["艹"],
+    "examples": ["芸術", "芸能"]
+  },
+  {
+    "character": "求",
+    "on_yomi": ["きゅう"],
+    "kun_yomi": ["もとめる"],
+    "meaning": "request, demand",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["水"],
+    "examples": ["要求", "求める"]
+  },
+  {
+    "character": "希",
+    "on_yomi": ["き"],
+    "kun_yomi": [],
+    "meaning": "hope, rare",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["巾"],
+    "examples": ["希望", "希少"]
+  },
+  {
+    "character": "告",
+    "on_yomi": ["こく"],
+    "kun_yomi": ["つげる"],
+    "meaning": "announce, inform",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["口"],
+    "examples": ["報告", "告げる"]
+  },
+  {
+    "character": "材",
+    "on_yomi": ["ざい"],
+    "kun_yomi": [],
+    "meaning": "material",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["木"],
+    "examples": ["材料", "素材"]
+  },
+  {
+    "character": "坂",
+    "on_yomi": ["はん"],
+    "kun_yomi": ["さか"],
+    "meaning": "slope",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["土"],
+    "examples": ["坂道", "急坂"]
+  },
+  {
+    "character": "似",
+    "on_yomi": ["じ"],
+    "kun_yomi": ["にる"],
+    "meaning": "resemble",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["亻"],
+    "examples": ["似る", "類似"]
+  },
+  {
+    "character": "児",
+    "on_yomi": ["じ"],
+    "kun_yomi": [],
+    "meaning": "child",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["儿"],
+    "examples": ["児童", "育児"]
+  },
+  {
+    "character": "状",
+    "on_yomi": ["じょう"],
+    "kun_yomi": [],
+    "meaning": "condition, form",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["犭"],
+    "examples": ["状態", "状況"]
+  },
+  {
+    "character": "初",
+    "on_yomi": ["しょ"],
+    "kun_yomi": ["はじめ"],
+    "meaning": "beginning",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["刂"],
+    "examples": ["最初", "初めて"]
+  },
+  {
+    "character": "助",
+    "on_yomi": ["じょ"],
+    "kun_yomi": ["たすける"],
+    "meaning": "help",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["力"],
+    "examples": ["助ける", "助手"]
+  },
+  {
+    "character": "労",
+    "on_yomi": ["ろう"],
+    "kun_yomi": [],
+    "meaning": "labor, toil",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["力"],
+    "examples": ["労働", "労力"]
+  },
+  {
+    "character": "冷",
+    "on_yomi": ["れい"],
+    "kun_yomi": ["つめたい"],
+    "meaning": "cold",
+    "jlpt_level_id": 3,
+    "stroke_count": 7,
+    "radicals": ["冫"],
+    "examples": ["冷たい", "冷静"]
+  },
+  {
+    "character": "例",
+    "on_yomi": ["れい"],
+    "kun_yomi": ["たとえる"],
+    "meaning": "example",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["亻"],
+    "examples": ["例", "例外"]
+  },
+  {
+    "character": "和",
+    "on_yomi": ["わ"],
+    "kun_yomi": ["やわらぐ"],
+    "meaning": "harmony, peace",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["禾"],
+    "examples": ["平和", "和食"]
+  },
+  {
+    "character": "述",
+    "on_yomi": ["じゅつ"],
+    "kun_yomi": ["のべる"],
+    "meaning": "state, mention",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["辶"],
+    "examples": ["述べる", "記述"]
+  },
+  {
+    "character": "承",
+    "on_yomi": ["しょう"],
+    "kun_yomi": ["うけたまわる"],
+    "meaning": "receive, consent",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["手"],
+    "examples": ["承知", "了承"]
+  },
+  {
+    "character": "招",
+    "on_yomi": ["しょう"],
+    "kun_yomi": ["まねく"],
+    "meaning": "invite",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["扌"],
+    "examples": ["招待", "招く"]
+  },
+  {
+    "character": "実",
+    "on_yomi": ["じつ"],
+    "kun_yomi": ["み"],
+    "meaning": "truth, reality",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["宀"],
+    "examples": ["実際", "事実"]
+  },
+  {
+    "character": "取",
+    "on_yomi": ["しゅ"],
+    "kun_yomi": ["とる"],
+    "meaning": "take",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["又"],
+    "examples": ["取る", "取得"]
+  },
+  {
+    "character": "治",
+    "on_yomi": ["じ"],
+    "kun_yomi": ["なおる"],
+    "meaning": "govern, cure",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["氵"],
+    "examples": ["治る", "政治"]
+  },
+  {
+    "character": "受",
+    "on_yomi": ["じゅ"],
+    "kun_yomi": ["うける"],
+    "meaning": "receive",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["又"],
+    "examples": ["受ける", "受験"]
+  },
+  {
+    "character": "周",
+    "on_yomi": ["しゅう"],
+    "kun_yomi": ["まわり"],
+    "meaning": "around",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["冂"],
+    "examples": ["周り", "周囲"]
+  },
+  {
+    "character": "妻",
+    "on_yomi": ["さい"],
+    "kun_yomi": ["つま"],
+    "meaning": "wife",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["女"],
+    "examples": ["妻", "夫妻"]
+  },
+  {
+    "character": "参",
+    "on_yomi": ["さん"],
+    "kun_yomi": ["まいる"],
+    "meaning": "participate",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["厶"],
+    "examples": ["参加", "参考"]
+  },
+  {
+    "character": "枝",
+    "on_yomi": ["し"],
+    "kun_yomi": ["えだ"],
+    "meaning": "branch",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["木"],
+    "examples": ["枝", "枝葉"]
+  },
+  {
+    "character": "刷",
+    "on_yomi": ["さつ"],
+    "kun_yomi": ["する"],
+    "meaning": "print",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["刂"],
+    "examples": ["印刷", "刷る"]
+  },
+  {
+    "character": "効",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["きく"],
+    "meaning": "effect",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["力"],
+    "examples": ["効果", "有効"]
+  },
+  {
+    "character": "幸",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["しあわせ"],
+    "meaning": "happiness",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["土"],
+    "examples": ["幸福", "幸せ"]
+  },
+  {
+    "character": "固",
+    "on_yomi": ["こ"],
+    "kun_yomi": ["かたい"],
+    "meaning": "hard, solid",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["囗"],
+    "examples": ["固い", "固体"]
+  },
+  {
+    "character": "季",
+    "on_yomi": ["き"],
+    "kun_yomi": [],
+    "meaning": "season",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["禾"],
+    "examples": ["季節", "四季"]
+  },
+  {
+    "character": "岸",
+    "on_yomi": ["がん"],
+    "kun_yomi": ["きし"],
+    "meaning": "shore, coast",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["山"],
+    "examples": ["海岸", "岸"]
+  },
+  {
+    "character": "岩",
+    "on_yomi": ["がん"],
+    "kun_yomi": ["いわ"],
+    "meaning": "rock",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["山"],
+    "examples": ["岩", "岩石"]
+  },
+  {
+    "character": "泣",
+    "on_yomi": ["きゅう"],
+    "kun_yomi": ["なく"],
+    "meaning": "cry",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["氵"],
+    "examples": ["泣く", "号泣"]
+  },
+  {
+    "character": "協",
+    "on_yomi": ["きょう"],
+    "kun_yomi": [],
+    "meaning": "cooperate",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["十"],
+    "examples": ["協力", "協調"]
+  },
+  {
+    "character": "居",
+    "on_yomi": ["きょ"],
+    "kun_yomi": ["いる"],
+    "meaning": "reside",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["尸"],
+    "examples": ["居る", "居住"]
+  },
+  {
+    "character": "苦",
+    "on_yomi": ["く"],
+    "kun_yomi": ["くるしい"],
+    "meaning": "suffering",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["艹"],
+    "examples": ["苦しい", "苦労"]
+  },
+  {
+    "character": "具",
+    "on_yomi": ["ぐ"],
+    "kun_yomi": [],
+    "meaning": "tool",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["八"],
+    "examples": ["道具", "家具"]
+  },
+  {
+    "character": "果",
+    "on_yomi": ["か"],
+    "kun_yomi": ["はたす"],
+    "meaning": "fruit, achieve",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["田"],
+    "examples": ["果物", "成果"]
+  },
+  {
+    "character": "河",
+    "on_yomi": ["か"],
+    "kun_yomi": ["かわ"],
+    "meaning": "river",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["氵"],
+    "examples": ["河川", "河"]
+  },
+  {
+    "character": "官",
+    "on_yomi": ["かん"],
+    "kun_yomi": [],
+    "meaning": "government official",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["宀"],
+    "examples": ["官僚", "警官"]
+  },
+  {
+    "character": "委",
+    "on_yomi": ["い"],
+    "kun_yomi": ["ゆだねる"],
+    "meaning": "committee, entrust",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["女"],
+    "examples": ["委員", "委ねる"]
+  },
+  {
+    "character": "易",
+    "on_yomi": ["い"],
+    "kun_yomi": ["やさしい"],
+    "meaning": "easy",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["日"],
+    "examples": ["容易", "易しい"]
+  },
+  {
+    "character": "育",
+    "on_yomi": ["いく"],
+    "kun_yomi": ["そだつ"],
+    "meaning": "raise, bring up",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["月"],
+    "examples": ["育てる", "教育"]
+  },
+  {
+    "character": "泳",
+    "on_yomi": ["えい"],
+    "kun_yomi": ["およぐ"],
+    "meaning": "swim",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["氵"],
+    "examples": ["泳ぐ", "水泳"]
+  },
+  {
+    "character": "直",
+    "on_yomi": ["ちょく"],
+    "kun_yomi": ["なおす"],
+    "meaning": "straight, fix",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["目"],
+    "examples": ["直接", "直す"]
+  },
+  {
+    "character": "定",
+    "on_yomi": ["てい"],
+    "kun_yomi": ["さだめる"],
+    "meaning": "decide, establish",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["宀"],
+    "examples": ["決定", "定める"]
+  },
+  {
+    "character": "底",
+    "on_yomi": ["てい"],
+    "kun_yomi": ["そこ"],
+    "meaning": "bottom",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["广"],
+    "examples": ["海底", "底"]
+  },
+  {
+    "character": "的",
+    "on_yomi": ["てき"],
+    "kun_yomi": ["まと"],
+    "meaning": "target",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["白"],
+    "examples": ["目的", "的"]
+  },
+  {
+    "character": "性",
+    "on_yomi": ["せい"],
+    "kun_yomi": [],
+    "meaning": "nature, gender",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["忄"],
+    "examples": ["性別", "性格"]
+  },
+  {
+    "character": "昔",
+    "on_yomi": ["せき"],
+    "kun_yomi": ["むかし"],
+    "meaning": "long ago",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["日"],
+    "examples": ["昔", "大昔"]
+  },
+  {
+    "character": "制",
+    "on_yomi": ["せい"],
+    "kun_yomi": [],
+    "meaning": "system, control",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["刂"],
+    "examples": ["制度", "制限"]
+  },
+  {
+    "character": "卒",
+    "on_yomi": ["そつ"],
+    "kun_yomi": [],
+    "meaning": "graduate",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["十"],
+    "examples": ["卒業", "新卒"]
+  },
+  {
+    "character": "非",
+    "on_yomi": ["ひ"],
+    "kun_yomi": [],
+    "meaning": "non-, negative",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["非"],
+    "examples": ["非常", "非行"]
+  },
+  {
+    "character": "波",
+    "on_yomi": ["は"],
+    "kun_yomi": ["なみ"],
+    "meaning": "wave",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["氵"],
+    "examples": ["波", "津波"]
+  },
+  {
+    "character": "板",
+    "on_yomi": ["はん"],
+    "kun_yomi": ["いた"],
+    "meaning": "board, plank",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["木"],
+    "examples": ["板", "看板"]
+  },
+  {
+    "character": "版",
+    "on_yomi": ["はん"],
+    "kun_yomi": [],
+    "meaning": "edition, printing",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["片"],
+    "examples": ["出版", "新版"]
+  },
+  {
+    "character": "念",
+    "on_yomi": ["ねん"],
+    "kun_yomi": [],
+    "meaning": "thought, wish",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["心"],
+    "examples": ["記念", "念願"]
+  },
+  {
+    "character": "武",
+    "on_yomi": ["ぶ"],
+    "kun_yomi": [],
+    "meaning": "military, warrior",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["止"],
+    "examples": ["武士", "武力"]
+  },
+  {
+    "character": "表",
+    "on_yomi": ["ひょう"],
+    "kun_yomi": ["おもて"],
+    "meaning": "surface, express",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["衣"],
+    "examples": ["表", "発表"]
+  },
+  {
+    "character": "命",
+    "on_yomi": ["めい"],
+    "kun_yomi": ["いのち"],
+    "meaning": "life, command",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["口"],
+    "examples": ["命", "命令"]
+  },
+  {
+    "character": "府",
+    "on_yomi": ["ふ"],
+    "kun_yomi": [],
+    "meaning": "government, prefecture",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["广"],
+    "examples": ["政府", "大阪府"]
+  },
+  {
+    "character": "放",
+    "on_yomi": ["ほう"],
+    "kun_yomi": ["はなす"],
+    "meaning": "release, let go",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["攵"],
+    "examples": ["放送", "放す"]
+  },
+  {
+    "character": "法",
+    "on_yomi": ["ほう"],
+    "kun_yomi": [],
+    "meaning": "law, method",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["氵"],
+    "examples": ["法律", "方法"]
+  },
+  {
+    "character": "油",
+    "on_yomi": ["ゆ"],
+    "kun_yomi": ["あぶら"],
+    "meaning": "oil",
+    "jlpt_level_id": 3,
+    "stroke_count": 8,
+    "radicals": ["氵"],
+    "examples": ["石油", "油"]
+  },
+  {
+    "character": "勇",
+    "on_yomi": ["ゆう"],
+    "kun_yomi": ["いさむ"],
+    "meaning": "bravery, courage",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["力"],
+    "examples": ["勇気", "勇敢"]
+  },
+  {
+    "character": "要",
+    "on_yomi": ["よう"],
+    "kun_yomi": ["いる"],
+    "meaning": "need, essential",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["西"],
+    "examples": ["必要", "要求"]
+  },
+  {
+    "character": "負",
+    "on_yomi": ["ふ"],
+    "kun_yomi": ["まける"],
+    "meaning": "lose, bear",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["貝"],
+    "examples": ["負ける", "負担"]
+  },
+  {
+    "character": "迷",
+    "on_yomi": ["めい"],
+    "kun_yomi": ["まよう"],
+    "meaning": "get lost",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["辶"],
+    "examples": ["迷う", "迷惑"]
+  },
+  {
+    "character": "約",
+    "on_yomi": ["やく"],
+    "kun_yomi": [],
+    "meaning": "promise, approximately",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["糸"],
+    "examples": ["約束", "予約"]
+  },
+  {
+    "character": "面",
+    "on_yomi": ["めん"],
+    "kun_yomi": ["おも"],
+    "meaning": "face, surface",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["面"],
+    "examples": ["面接", "表面"]
+  },
+  {
+    "character": "変",
+    "on_yomi": ["へん"],
+    "kun_yomi": ["かわる"],
+    "meaning": "change, strange",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["攵"],
+    "examples": ["変わる", "変化"]
+  },
+  {
+    "character": "飛",
+    "on_yomi": ["ひ"],
+    "kun_yomi": ["とぶ"],
+    "meaning": "fly",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["飛"],
+    "examples": ["飛ぶ", "飛行機"]
+  },
+  {
+    "character": "美",
+    "on_yomi": ["び"],
+    "kun_yomi": ["うつくしい"],
+    "meaning": "beauty",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["羊"],
+    "examples": ["美しい", "美術"]
+  },
+  {
+    "character": "独",
+    "on_yomi": ["どく"],
+    "kun_yomi": [],
+    "meaning": "alone, independent",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["犭"],
+    "examples": ["独立", "独身"]
+  },
+  {
+    "character": "則",
+    "on_yomi": ["そく"],
+    "kun_yomi": [],
+    "meaning": "rule, law",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["刂"],
+    "examples": ["規則", "法則"]
+  },
+  {
+    "character": "相",
+    "on_yomi": ["そう"],
+    "kun_yomi": ["あい"],
+    "meaning": "mutual, minister",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["目"],
+    "examples": ["相談", "相手"]
+  },
+  {
+    "character": "草",
+    "on_yomi": ["そう"],
+    "kun_yomi": ["くさ"],
+    "meaning": "grass",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["艹"],
+    "examples": ["草", "草原"]
+  },
+  {
+    "character": "祖",
+    "on_yomi": ["そ"],
+    "kun_yomi": [],
+    "meaning": "ancestor",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["示"],
+    "examples": ["祖父", "先祖"]
+  },
+  {
+    "character": "信",
+    "on_yomi": ["しん"],
+    "kun_yomi": [],
+    "meaning": "trust, faith",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["亻"],
+    "examples": ["信じる", "信用"]
+  },
+  {
+    "character": "政",
+    "on_yomi": ["せい"],
+    "kun_yomi": ["まつりごと"],
+    "meaning": "government, politics",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["攵"],
+    "examples": ["政治", "政党"]
+  },
+  {
+    "character": "星",
+    "on_yomi": ["せい"],
+    "kun_yomi": ["ほし"],
+    "meaning": "star",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["日"],
+    "examples": ["星", "衛星"]
+  },
+  {
+    "character": "点",
+    "on_yomi": ["てん"],
+    "kun_yomi": [],
+    "meaning": "point, mark",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["灬"],
+    "examples": ["点", "得点"]
+  },
+  {
+    "character": "追",
+    "on_yomi": ["つい"],
+    "kun_yomi": ["おう"],
+    "meaning": "chase, pursue",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["辶"],
+    "examples": ["追う", "追加"]
+  },
+  {
+    "character": "単",
+    "on_yomi": ["たん"],
+    "kun_yomi": [],
+    "meaning": "simple, single",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["口"],
+    "examples": ["単語", "単純"]
+  },
+  {
+    "character": "炭",
+    "on_yomi": ["たん"],
+    "kun_yomi": ["すみ"],
+    "meaning": "charcoal, coal",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["火"],
+    "examples": ["石炭", "炭火"]
+  },
+  {
+    "character": "退",
+    "on_yomi": ["たい"],
+    "kun_yomi": ["しりぞく"],
+    "meaning": "retreat, withdraw",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["辶"],
+    "examples": ["退職", "退く"]
+  },
+  {
+    "character": "栄",
+    "on_yomi": ["えい"],
+    "kun_yomi": ["さかえる"],
+    "meaning": "prosper, flourish",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["艹"],
+    "examples": ["栄える", "栄光"]
+  },
+  {
+    "character": "科",
+    "on_yomi": ["か"],
+    "kun_yomi": [],
+    "meaning": "course, department",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["禾"],
+    "examples": ["科学", "教科書"]
+  },
+  {
+    "character": "活",
+    "on_yomi": ["かつ"],
+    "kun_yomi": ["いきる"],
+    "meaning": "live, activity",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["氵"],
+    "examples": ["生活", "活用"]
+  },
+  {
+    "character": "胃",
+    "on_yomi": ["い"],
+    "kun_yomi": [],
+    "meaning": "stomach",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["田"],
+    "examples": ["胃", "胃腸"]
+  },
+  {
+    "character": "級",
+    "on_yomi": ["きゅう"],
+    "kun_yomi": [],
+    "meaning": "rank, grade",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["糸"],
+    "examples": ["高級", "進級"]
+  },
+  {
+    "character": "軍",
+    "on_yomi": ["ぐん"],
+    "kun_yomi": [],
+    "meaning": "army, military",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["車"],
+    "examples": ["軍隊", "空軍"]
+  },
+  {
+    "character": "係",
+    "on_yomi": ["けい"],
+    "kun_yomi": ["かかり"],
+    "meaning": "person in charge, connection",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["亻"],
+    "examples": ["係", "関係"]
+  },
+  {
+    "character": "型",
+    "on_yomi": ["けい"],
+    "kun_yomi": ["かた"],
+    "meaning": "model, type",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["土"],
+    "examples": ["大型", "型式"]
+  },
+  {
+    "character": "客",
+    "on_yomi": ["きゃく"],
+    "kun_yomi": [],
+    "meaning": "guest, customer",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["宀"],
+    "examples": ["お客さん", "乗客"]
+  },
+  {
+    "character": "逆",
+    "on_yomi": ["ぎゃく"],
+    "kun_yomi": ["さか"],
+    "meaning": "reverse, opposite",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["辶"],
+    "examples": ["逆", "逆転"]
+  },
+  {
+    "character": "限",
+    "on_yomi": ["げん"],
+    "kun_yomi": ["かぎる"],
+    "meaning": "limit",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["阝"],
+    "examples": ["限る", "制限"]
+  },
+  {
+    "character": "厚",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["あつい"],
+    "meaning": "thick",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["厂"],
+    "examples": ["厚い", "厚情"]
+  },
+  {
+    "character": "指",
+    "on_yomi": ["し"],
+    "kun_yomi": ["ゆび"],
+    "meaning": "finger, point",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["扌"],
+    "examples": ["指", "指示"]
+  },
+  {
+    "character": "昨",
+    "on_yomi": ["さく"],
+    "kun_yomi": [],
+    "meaning": "yesterday",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["日"],
+    "examples": ["昨日", "昨年"]
+  },
+  {
+    "character": "祝",
+    "on_yomi": ["しゅく"],
+    "kun_yomi": ["いわう"],
+    "meaning": "celebrate",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["示"],
+    "examples": ["祝う", "祝日"]
+  },
+  {
+    "character": "神",
+    "on_yomi": ["しん"],
+    "kun_yomi": ["かみ"],
+    "meaning": "god, divine",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["示"],
+    "examples": ["神", "神社"]
+  },
+  {
+    "character": "査",
+    "on_yomi": ["さ"],
+    "kun_yomi": [],
+    "meaning": "investigate",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["木"],
+    "examples": ["調査", "検査"]
+  },
+  {
+    "character": "省",
+    "on_yomi": ["しょう"],
+    "kun_yomi": ["はぶく"],
+    "meaning": "omit, reflect on",
+    "jlpt_level_id": 3,
+    "stroke_count": 9,
+    "radicals": ["目"],
+    "examples": ["省略", "反省"]
+  },
+  {
+    "character": "酒",
+    "on_yomi": ["しゅ"],
+    "kun_yomi": ["さけ"],
+    "meaning": "alcohol",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["氵"],
+    "examples": ["日本酒", "酒屋"]
+  },
+  {
+    "character": "笑",
+    "on_yomi": ["しょう"],
+    "kun_yomi": ["わらう"],
+    "meaning": "laugh, smile",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["竹"],
+    "examples": ["笑う", "笑顔"]
+  },
+  {
+    "character": "消",
+    "on_yomi": ["しょう"],
+    "kun_yomi": ["きえる"],
+    "meaning": "extinguish, disappear",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["氵"],
+    "examples": ["消す", "消火"]
+  },
+  {
+    "character": "師",
+    "on_yomi": ["し"],
+    "kun_yomi": [],
+    "meaning": "teacher, master",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["巾"],
+    "examples": ["教師", "医師"]
+  },
+  {
+    "character": "財",
+    "on_yomi": ["ざい"],
+    "kun_yomi": [],
+    "meaning": "wealth, assets",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["貝"],
+    "examples": ["財産", "財務"]
+  },
+  {
+    "character": "殺",
+    "on_yomi": ["さつ"],
+    "kun_yomi": ["ころす"],
+    "meaning": "kill",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["殳"],
+    "examples": ["殺す", "殺人"]
+  },
+  {
+    "character": "差",
+    "on_yomi": ["さ"],
+    "kun_yomi": ["さす"],
+    "meaning": "difference, distinction",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["工"],
+    "examples": ["差別", "交差点"]
+  },
+  {
+    "character": "残",
+    "on_yomi": ["ざん"],
+    "kun_yomi": ["のこる"],
+    "meaning": "remain, leftover",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["歹"],
+    "examples": ["残る", "残業"]
+  },
+  {
+    "character": "航",
+    "on_yomi": ["こう"],
+    "kun_yomi": [],
+    "meaning": "navigate, sail",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["舟"],
+    "examples": ["航空", "航海"]
+  },
+  {
+    "character": "根",
+    "on_yomi": ["こん"],
+    "kun_yomi": ["ね"],
+    "meaning": "root",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["木"],
+    "examples": ["根", "根本"]
+  },
+  {
+    "character": "個",
+    "on_yomi": ["こ"],
+    "kun_yomi": [],
+    "meaning": "individual, counter for articles",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["亻"],
+    "examples": ["個人", "個別"]
+  },
+  {
+    "character": "候",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["そうろう"],
+    "meaning": "climate, season",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["亻"],
+    "examples": ["候補", "天候"]
+  },
+  {
+    "character": "庫",
+    "on_yomi": ["こ"],
+    "kun_yomi": [],
+    "meaning": "warehouse, storage",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["广"],
+    "examples": ["倉庫", "冷蔵庫"]
+  },
+  {
+    "character": "記",
+    "on_yomi": ["き"],
+    "kun_yomi": ["しるす"],
+    "meaning": "record, write",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["言"],
+    "examples": ["日記", "記事"]
+  },
+  {
+    "character": "訓",
+    "on_yomi": ["くん"],
+    "kun_yomi": [],
+    "meaning": "instruction",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["言"],
+    "examples": ["訓練", "教訓"]
+  },
+  {
+    "character": "害",
+    "on_yomi": ["がい"],
+    "kun_yomi": [],
+    "meaning": "harm, damage",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["宀"],
+    "examples": ["害", "災害"]
+  },
+  {
+    "character": "格",
+    "on_yomi": ["かく"],
+    "kun_yomi": [],
+    "meaning": "status, rank",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["木"],
+    "examples": ["資格", "性格"]
+  },
+  {
+    "character": "荷",
+    "on_yomi": ["か"],
+    "kun_yomi": ["に"],
+    "meaning": "baggage, load",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["艹"],
+    "examples": ["荷物", "出荷"]
+  },
+  {
+    "character": "帯",
+    "on_yomi": ["たい"],
+    "kun_yomi": ["おびる"],
+    "meaning": "belt, zone",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["巾"],
+    "examples": ["地帯", "携帯"]
+  },
+  {
+    "character": "島",
+    "on_yomi": ["とう"],
+    "kun_yomi": ["しま"],
+    "meaning": "island",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["山"],
+    "examples": ["島", "列島"]
+  },
+  {
+    "character": "庭",
+    "on_yomi": ["てい"],
+    "kun_yomi": ["にわ"],
+    "meaning": "garden",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["广"],
+    "examples": ["庭", "家庭"]
+  },
+  {
+    "character": "徒",
+    "on_yomi": ["と"],
+    "kun_yomi": [],
+    "meaning": "follower, disciple",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["彳"],
+    "examples": ["生徒", "徒歩"]
+  },
+  {
+    "character": "席",
+    "on_yomi": ["せき"],
+    "kun_yomi": [],
+    "meaning": "seat",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["巾"],
+    "examples": ["座席", "出席"]
+  },
+  {
+    "character": "息",
+    "on_yomi": ["そく"],
+    "kun_yomi": ["いき"],
+    "meaning": "breath, son",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["心"],
+    "examples": ["息", "休息"]
+  },
+  {
+    "character": "造",
+    "on_yomi": ["ぞう"],
+    "kun_yomi": ["つくる"],
+    "meaning": "make, create",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["辶"],
+    "examples": ["製造", "造る"]
+  },
+  {
+    "character": "孫",
+    "on_yomi": ["そん"],
+    "kun_yomi": ["まご"],
+    "meaning": "grandchild",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["子"],
+    "examples": ["孫", "子孫"]
+  },
+  {
+    "character": "速",
+    "on_yomi": ["そく"],
+    "kun_yomi": ["はやい"],
+    "meaning": "fast",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["辶"],
+    "examples": ["速い", "速度"]
+  },
+  {
+    "character": "能",
+    "on_yomi": ["のう"],
+    "kun_yomi": [],
+    "meaning": "ability",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["月"],
+    "examples": ["能力", "可能"]
+  },
+  {
+    "character": "配",
+    "on_yomi": ["はい"],
+    "kun_yomi": ["くばる"],
+    "meaning": "distribute, deliver",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["酉"],
+    "examples": ["配る", "配達"]
+  },
+  {
+    "character": "倍",
+    "on_yomi": ["ばい"],
+    "kun_yomi": [],
+    "meaning": "double",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["亻"],
+    "examples": ["倍", "倍率"]
+  },
+  {
+    "character": "破",
+    "on_yomi": ["は"],
+    "kun_yomi": ["やぶる"],
+    "meaning": "break, destroy",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["石"],
+    "examples": ["破る", "破壊"]
+  },
+  {
+    "character": "馬",
+    "on_yomi": ["ば"],
+    "kun_yomi": ["うま"],
+    "meaning": "horse",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["馬"],
+    "examples": ["馬", "競馬"]
+  },
+  {
+    "character": "浴",
+    "on_yomi": ["よく"],
+    "kun_yomi": ["あびる"],
+    "meaning": "bathe",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["氵"],
+    "examples": ["浴びる", "入浴"]
+  },
+  {
+    "character": "容",
+    "on_yomi": ["よう"],
+    "kun_yomi": [],
+    "meaning": "contain, form",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["宀"],
+    "examples": ["内容", "容器"]
+  },
+  {
+    "character": "流",
+    "on_yomi": ["りゅう"],
+    "kun_yomi": ["ながれる"],
+    "meaning": "flow",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["氵"],
+    "examples": ["流れる", "流行"]
+  },
+  {
+    "character": "留",
+    "on_yomi": ["りゅう"],
+    "kun_yomi": ["とめる"],
+    "meaning": "stay, detain",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["田"],
+    "examples": ["留学", "留守"]
+  },
+  {
+    "character": "連",
+    "on_yomi": ["れん"],
+    "kun_yomi": ["つれる"],
+    "meaning": "connect, take along",
+    "jlpt_level_id": 3,
+    "stroke_count": 10,
+    "radicals": ["辶"],
+    "examples": ["連れて行く", "連絡"]
+  },
+  {
+    "character": "陸",
+    "on_yomi": ["りく"],
+    "kun_yomi": [],
+    "meaning": "land",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["阝"],
+    "examples": ["陸", "陸上"]
+  },
+  {
+    "character": "率",
+    "on_yomi": ["りつ"],
+    "kun_yomi": ["ひきいる"],
+    "meaning": "rate, lead",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["玄"],
+    "examples": ["率直", "成功率"]
+  },
+  {
+    "character": "略",
+    "on_yomi": ["りゃく"],
+    "kun_yomi": [],
+    "meaning": "abbreviation, strategy",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["田"],
+    "examples": ["略す", "省略"]
+  },
+  {
+    "character": "望",
+    "on_yomi": ["ぼう"],
+    "kun_yomi": ["のぞむ"],
+    "meaning": "hope, desire",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["月"],
+    "examples": ["希望", "望む"]
+  },
+  {
+    "character": "務",
+    "on_yomi": ["む"],
+    "kun_yomi": ["つとめる"],
+    "meaning": "duty, task",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["力"],
+    "examples": ["事務", "務める"]
+  },
+  {
+    "character": "敗",
+    "on_yomi": ["はい"],
+    "kun_yomi": ["やぶれる"],
+    "meaning": "defeat, fail",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["貝"],
+    "examples": ["失敗", "敗れる"]
+  },
+  {
+    "character": "部",
+    "on_yomi": ["ぶ"],
+    "kun_yomi": [],
+    "meaning": "department, part",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["阝"],
+    "examples": ["部屋", "部長"]
+  },
+  {
+    "character": "副",
+    "on_yomi": ["ふく"],
+    "kun_yomi": [],
+    "meaning": "assistant, vice-",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["刂"],
+    "examples": ["副社長", "副作用"]
+  },
+  {
+    "character": "婦",
+    "on_yomi": ["ふ"],
+    "kun_yomi": [],
+    "meaning": "woman, wife",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["女"],
+    "examples": ["主婦", "産婦人科"]
+  },
+  {
+    "character": "側",
+    "on_yomi": ["そく"],
+    "kun_yomi": ["かわ"],
+    "meaning": "side",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["亻"],
+    "examples": ["側", "側面"]
+  },
+  {
+    "character": "組",
+    "on_yomi": ["そ"],
+    "kun_yomi": ["くむ"],
+    "meaning": "assemble, group",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["糸"],
+    "examples": ["組み立てる", "番組"]
+  },
+  {
+    "character": "責",
+    "on_yomi": ["せき"],
+    "kun_yomi": ["せめる"],
+    "meaning": "blame, responsibility",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["貝"],
+    "examples": ["責任", "責める"]
+  },
+  {
+    "character": "接",
+    "on_yomi": ["せつ"],
+    "kun_yomi": ["つぐ"],
+    "meaning": "connect, contact",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["扌"],
+    "examples": ["接続", "面接"]
+  },
+  {
+    "character": "船",
+    "on_yomi": ["せん"],
+    "kun_yomi": ["ふね"],
+    "meaning": "ship, boat",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["舟"],
+    "examples": ["船", "客船"]
+  },
+  {
+    "character": "商",
+    "on_yomi": ["しょう"],
+    "kun_yomi": ["あきなう"],
+    "meaning": "commerce, trade",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["口"],
+    "examples": ["商業", "商品"]
+  },
+  {
+    "character": "設",
+    "on_yomi": ["せつ"],
+    "kun_yomi": ["もうける"],
+    "meaning": "establish, set up",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["言"],
+    "examples": ["設置", "設定"]
+  },
+  {
+    "character": "雪",
+    "on_yomi": ["せつ"],
+    "kun_yomi": ["ゆき"],
+    "meaning": "snow",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["雨"],
+    "examples": ["雪", "大雪"]
+  },
+  {
+    "character": "清",
+    "on_yomi": ["せい"],
+    "kun_yomi": ["きよい"],
+    "meaning": "clear, pure",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["氵"],
+    "examples": ["清潔", "清い"]
+  },
+  {
+    "character": "深",
+    "on_yomi": ["しん"],
+    "kun_yomi": ["ふかい"],
+    "meaning": "deep",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["氵"],
+    "examples": ["深い", "深夜"]
+  },
+  {
+    "character": "得",
+    "on_yomi": ["とく"],
+    "kun_yomi": ["える"],
+    "meaning": "gain, acquire",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["彳"],
+    "examples": ["得る", "所得"]
+  },
+  {
+    "character": "第",
+    "on_yomi": ["だい"],
+    "kun_yomi": [],
+    "meaning": "ordinal number prefix",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["竹"],
+    "examples": ["第一", "次第"]
+  },
+  {
+    "character": "停",
+    "on_yomi": ["てい"],
+    "kun_yomi": ["とまる"],
+    "meaning": "stop",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["亻"],
+    "examples": ["停止", "停車"]
+  },
+  {
+    "character": "断",
+    "on_yomi": ["だん"],
+    "kun_yomi": ["ことわる"],
+    "meaning": "cut off, refuse",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["斤"],
+    "examples": ["断る", "判断"]
+  },
+  {
+    "character": "貨",
+    "on_yomi": ["か"],
+    "kun_yomi": [],
+    "meaning": "goods, currency",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["貝"],
+    "examples": ["貨物", "通貨"]
+  },
+  {
+    "character": "液",
+    "on_yomi": ["えき"],
+    "kun_yomi": [],
+    "meaning": "liquid",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["氵"],
+    "examples": ["液体", "血液"]
+  },
+  {
+    "character": "移",
+    "on_yomi": ["い"],
+    "kun_yomi": ["うつる"],
+    "meaning": "move, shift",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["禾"],
+    "examples": ["移る", "移動"]
+  },
+  {
+    "character": "経",
+    "on_yomi": ["けい"],
+    "kun_yomi": [],
+    "meaning": "pass through, manage",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["糸"],
+    "examples": ["経済", "経験"]
+  },
+  {
+    "character": "規",
+    "on_yomi": ["き"],
+    "kun_yomi": [],
+    "meaning": "rule, standard",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["見"],
+    "examples": ["規則", "規制"]
+  },
+  {
+    "character": "寄",
+    "on_yomi": ["き"],
+    "kun_yomi": ["よる"],
+    "meaning": "approach, donate",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["宀"],
+    "examples": ["寄付", "近寄る"]
+  },
+  {
+    "character": "許",
+    "on_yomi": ["きょ"],
+    "kun_yomi": ["ゆるす"],
+    "meaning": "permit, allow",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["言"],
+    "examples": ["許す", "許可"]
+  },
+  {
+    "character": "球",
+    "on_yomi": ["きゅう"],
+    "kun_yomi": ["たま"],
+    "meaning": "ball",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["王"],
+    "examples": ["地球", "野球"]
+  },
+  {
+    "character": "救",
+    "on_yomi": ["きゅう"],
+    "kun_yomi": ["すくう"],
+    "meaning": "save, rescue",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["攵"],
+    "examples": ["救う", "救急車"]
+  },
+  {
+    "character": "険",
+    "on_yomi": ["けん"],
+    "kun_yomi": ["けわしい"],
+    "meaning": "dangerous, steep",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["阝"],
+    "examples": ["危険", "険しい"]
+  },
+  {
+    "character": "現",
+    "on_yomi": ["げん"],
+    "kun_yomi": ["あらわれる"],
+    "meaning": "appear, present",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["王"],
+    "examples": ["現在", "現れる"]
+  },
+  {
+    "character": "混",
+    "on_yomi": ["こん"],
+    "kun_yomi": ["まぜる"],
+    "meaning": "mix, confusion",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["氵"],
+    "examples": ["混ぜる", "混乱"]
+  },
+  {
+    "character": "祭",
+    "on_yomi": ["さい"],
+    "kun_yomi": ["まつり"],
+    "meaning": "festival",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["示"],
+    "examples": ["祭り", "祭典"]
+  },
+  {
+    "character": "細",
+    "on_yomi": ["さい"],
+    "kun_yomi": ["ほそい"],
+    "meaning": "slender, fine",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["糸"],
+    "examples": ["細い", "詳細"]
+  },
+  {
+    "character": "術",
+    "on_yomi": ["じゅつ"],
+    "kun_yomi": [],
+    "meaning": "art, technique",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["行"],
+    "examples": ["技術", "美術"]
+  },
+  {
+    "character": "宿",
+    "on_yomi": ["しゅく"],
+    "kun_yomi": ["やど"],
+    "meaning": "lodge, inn",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["宀"],
+    "examples": ["宿", "宿泊"]
+  },
+  {
+    "character": "章",
+    "on_yomi": ["しょう"],
+    "kun_yomi": [],
+    "meaning": "chapter, badge",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["立"],
+    "examples": ["文章", "勲章"]
+  },
+  {
+    "character": "常",
+    "on_yomi": ["じょう"],
+    "kun_yomi": ["つね"],
+    "meaning": "usual, normal",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["巾"],
+    "examples": ["日常", "常識"]
+  },
+  {
+    "character": "情",
+    "on_yomi": ["じょう"],
+    "kun_yomi": ["なさけ"],
+    "meaning": "emotion, affection",
+    "jlpt_level_id": 3,
+    "stroke_count": 11,
+    "radicals": ["忄"],
+    "examples": ["感情", "情報"]
+  },
+  {
+    "character": "植",
+    "on_yomi": ["しょく"],
+    "kun_yomi": ["うえる"],
+    "meaning": "plant",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["木"],
+    "examples": ["植物", "植える"]
+  },
+  {
+    "character": "順",
+    "on_yomi": ["じゅん"],
+    "kun_yomi": [],
+    "meaning": "order, sequence",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["頁"],
+    "examples": ["順番", "順調"]
+  },
+  {
+    "character": "象",
+    "on_yomi": ["しょう"],
+    "kun_yomi": [],
+    "meaning": "elephant, image",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["豕"],
+    "examples": ["象", "印象"]
+  },
+  {
+    "character": "焼",
+    "onyomi": "しょう",
+    "kunyomi": "やく",
+    "meaning": "burn, bake",
+    "level": "N3",
+    "examples": ["焼く", "燃焼"]
+  },
+  {
+    "character": "勝",
+    "onyomi": "しょう",
+    "kunyomi": "かつ",
+    "meaning": "win, victory",
+    "level": "N3",
+    "examples": ["勝つ", "優勝"]
+  },
+  {
+    "character": "歯",
+    "onyomi": "し",
+    "kunyomi": "は",
+    "meaning": "tooth",
+    "level": "N3",
+    "examples": ["歯", "歯科"]
+  },
+  {
+    "character": "最",
+    "onyomi": "さい",
+    "kunyomi": "もっとも",
+    "meaning": "most",
+    "level": "N3",
+    "examples": ["最高", "最近"]
+  },
+  {
+    "character": "散",
+    "onyomi": "さん",
+    "kunyomi": "ちる",
+    "meaning": "scatter, disperse",
+    "level": "N3",
+    "examples": ["散歩", "解散"]
+  },
+  {
+    "character": "港",
+    "onyomi": "こう",
+    "kunyomi": "みなと",
+    "meaning": "harbor",
+    "level": "N3",
+    "examples": ["港", "空港"]
+  },
+  {
+    "character": "検",
+    "onyomi": "けん",
+    "kunyomi": "",
+    "meaning": "inspect, examine",
+    "level": "N3",
+    "examples": ["検査", "検討"]
+  },
+  {
+    "character": "湖",
+    "onyomi": "こ",
+    "kunyomi": "みずうみ",
+    "meaning": "lake",
+    "level": "N3",
+    "examples": ["湖", "琵琶湖"]
+  },
+  {
+    "character": "期",
+    "onyomi": "き",
+    "kunyomi": "",
+    "meaning": "period, term",
+    "level": "N3",
+    "examples": ["期間", "期待"]
+  },
+  {
+    "character": "喜",
+    "onyomi": "き",
+    "kunyomi": "よろこぶ",
+    "meaning": "rejoice, pleasure",
+    "level": "N3",
+    "examples": ["喜ぶ", "喜劇"]
+  },
+  {
+    "character": "結",
+    "onyomi": "けつ",
+    "kunyomi": "むすぶ",
+    "meaning": "tie, bind",
+    "level": "N3",
+    "examples": ["結ぶ", "結婚"]
+  },
+  {
+    "character": "景",
+    "onyomi": "けい",
+    "kunyomi": "",
+    "meaning": "scenery, view",
+    "level": "N3",
+    "examples": ["景色", "風景"]
+  },
+  {
+    "character": "給",
+    "onyomi": "きゅう",
+    "kunyomi": "",
+    "meaning": "salary, supply",
+    "level": "N3",
+    "examples": ["給料", "支給"]
+  },
+  {
+    "character": "雲",
+    "onyomi": "うん",
+    "kunyomi": "くも",
+    "meaning": "cloud",
+    "level": "N3",
+    "examples": ["雲", "曇天"]
+  },
+  {
+    "character": "営",
+    "onyomi": "えい",
+    "kunyomi": "いとなむ",
+    "meaning": "manage, conduct",
+    "level": "N3",
+    "examples": ["営業", "経営"]
+  },
+  {
+    "character": "温",
+    "onyomi": "おん",
+    "kunyomi": "あたたかい",
+    "meaning": "warm",
+    "level": "N3",
+    "examples": ["温かい", "温度"]
+  },
+  {
+    "character": "過",
+    "onyomi": "か",
+    "kunyomi": "すぎる",
+    "meaning": "pass, exceed",
+    "level": "N3",
+    "examples": ["過ぎる", "過去"]
+  },
+  {
+    "character": "絵",
+    "onyomi": "かい",
+    "kunyomi": "",
+    "meaning": "picture, painting",
+    "level": "N3",
+    "examples": ["絵", "絵画"]
+  },
+  {
+    "character": "階",
+    "onyomi": "かい",
+    "kunyomi": "",
+    "meaning": "floor, step",
+    "level": "N3",
+    "examples": ["階段", "段階"]
+  },
+  {
+    "character": "覚",
+    "onyomi": "かく",
+    "kunyomi": "おぼえる",
+    "meaning": "remember, awake",
+    "level": "N3",
+    "examples": ["覚える", "感覚"]
+  },
+  {
+    "character": "貯",
+    "on_yomi": ["ちょ"],
+    "kun_yomi": [],
+    "meaning": "savings, store",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["貝"],
+    "examples": ["貯金", "貯蔵"]
+  },
+  {
+    "character": "達",
+    "on_yomi": ["たつ"],
+    "kun_yomi": [],
+    "meaning": "reach, attain",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["辶"],
+    "examples": ["達成", "友達"]
+  },
+  {
+    "character": "測",
+    "on_yomi": ["そく"],
+    "kun_yomi": ["はかる"],
+    "meaning": "measure",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["氵"],
+    "examples": ["測る", "予測"]
+  },
+  {
+    "character": "童",
+    "on_yomi": ["どう"],
+    "kun_yomi": [],
+    "meaning": "child",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["立"],
+    "examples": ["童話", "児童"]
+  },
+  {
+    "character": "等",
+    "on_yomi": ["とう"],
+    "kun_yomi": ["ひとしい"],
+    "meaning": "equal, class",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["竹"],
+    "examples": ["平等", "高等"]
+  },
+  {
+    "character": "湯",
+    "on_yomi": ["とう"],
+    "kun_yomi": ["ゆ"],
+    "meaning": "hot water",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["氵"],
+    "examples": ["お湯", "温湯"]
+  },
+  {
+    "character": "登",
+    "on_yomi": ["とう"],
+    "kun_yomi": ["のぼる"],
+    "meaning": "climb",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["癶"],
+    "examples": ["登る", "登山"]
+  },
+  {
+    "character": "程",
+    "on_yomi": ["てい"],
+    "kun_yomi": ["ほど"],
+    "meaning": "degree, extent",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["禾"],
+    "examples": ["程度", "過程"]
+  },
+  {
+    "character": "絶",
+    "on_yomi": ["ぜつ"],
+    "kun_yomi": ["たえる"],
+    "meaning": "discontinue, cut off",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["糸"],
+    "examples": ["絶対", "絶える"]
+  },
+  {
+    "character": "然",
+    "on_yomi": ["ぜん"],
+    "kun_yomi": [],
+    "meaning": "so, nature",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["灬"],
+    "examples": ["自然", "当然"]
+  },
+  {
+    "character": "富",
+    "on_yomi": ["ふ"],
+    "kun_yomi": ["とみ"],
+    "meaning": "wealth, resources",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["宀"],
+    "examples": ["富", "富士山"]
+  },
+  {
+    "character": "復",
+    "on_yomi": ["ふく"],
+    "kun_yomi": [],
+    "meaning": "restore, return",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["彳"],
+    "examples": ["復習", "回復"]
+  },
+  {
+    "character": "費",
+    "on_yomi": ["ひ"],
+    "kun_yomi": ["ついやす"],
+    "meaning": "expense, cost",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["貝"],
+    "examples": ["費用", "消費"]
+  },
+  {
+    "character": "番",
+    "on_yomi": ["ばん"],
+    "kun_yomi": [],
+    "meaning": "number, watch",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["田"],
+    "examples": ["番組", "番号"]
+  },
+  {
+    "character": "悲",
+    "on_yomi": ["ひ"],
+    "kun_yomi": ["かい"],
+    "meaning": "sad",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["心"],
+    "examples": ["悲しい", "悲劇"]
+  },
+  {
+    "character": "筆",
+    "on_yomi": ["ひつ"],
+    "kun_yomi": ["ふで"],
+    "meaning": "brush, writing",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["竹"],
+    "examples": ["筆", "鉛筆"]
+  },
+  {
+    "character": "備",
+    "on_yomi": ["び"],
+    "kun_yomi": ["そなえる"],
+    "meaning": "prepare",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["亻"],
+    "examples": ["準備", "備える"]
+  },
+  {
+    "character": "貿",
+    "on_yomi": ["ぼう"],
+    "kun_yomi": [],
+    "meaning": "trade",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["貝"],
+    "examples": ["貿易", "貿易会社"]
+  },
+  {
+    "character": "無",
+    "on_yomi": ["む"],
+    "kun_yomi": ["ない"],
+    "meaning": "none, nothing",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["灬"],
+    "examples": ["無理", "無事"]
+  },
+  {
+    "character": "報",
+    "on_yomi": ["ほう"],
+    "kun_yomi": ["むくいる"],
+    "meaning": "report, news",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["土"],
+    "examples": ["報告", "情報"]
+  },
+  {
+    "character": "満",
+    "on_yomi": ["まん"],
+    "kun_yomi": ["みちる"],
+    "meaning": "full, satisfied",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["氵"],
+    "examples": ["満足", "満員"]
+  },
+  {
+    "character": "量",
+    "on_yomi": ["りょう"],
+    "kun_yomi": ["はかる"],
+    "meaning": "quantity, measure",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["里"],
+    "examples": ["量", "重量"]
+  },
+  {
+    "character": "遊",
+    "on_yomi": ["ゆう"],
+    "kun_yomi": ["あそぶ"],
+    "meaning": "play",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["辶"],
+    "examples": ["遊ぶ", "遊園地"]
+  },
+  {
+    "character": "落",
+    "on_yomi": ["らく"],
+    "kun_yomi": ["おちる"],
+    "meaning": "fall, drop",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["艹"],
+    "examples": ["落ちる", "落下"]
+  },
+  {
+    "character": "陽",
+    "on_yomi": ["よう"],
+    "kun_yomi": [],
+    "meaning": "sun, positive",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["阝"],
+    "examples": ["太陽", "陽気"]
+  },
+  {
+    "character": "葉",
+    "on_yomi": ["よう"],
+    "kun_yomi": ["は"],
+    "meaning": "leaf",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["艹"],
+    "examples": ["葉", "紅葉"]
+  },
+  {
+    "character": "税",
+    "on_yomi": ["ぜい"],
+    "kun_yomi": [],
+    "meaning": "tax",
+    "jlpt_level_id": 3,
+    "stroke_count": 12,
+    "radicals": ["禾"],
+    "examples": ["税金", "消費税"]
+  },
+  {
+    "character": "路",
+    "on_yomi": ["ろ"],
+    "kun_yomi": ["じ"],
+    "meaning": "road",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["足"],
+    "examples": ["道路", "通路"]
+  },
+  {
+    "character": "豊",
+    "on_yomi": ["ほう"],
+    "kun_yomi": ["ゆたか"],
+    "meaning": "abundant, rich",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["豆"],
+    "examples": ["豊か", "豊富"]
+  },
+  {
+    "character": "夢",
+    "on_yomi": ["む"],
+    "kun_yomi": ["ゆめ"],
+    "meaning": "dream",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["夕"],
+    "examples": ["夢", "夢中"]
+  },
+  {
+    "character": "農",
+    "on_yomi": ["のう"],
+    "kun_yomi": [],
+    "meaning": "agriculture",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["辰"],
+    "examples": ["農業", "農村"]
+  },
+  {
+    "character": "続",
+    "on_yomi": ["ぞく"],
+    "kun_yomi": ["つづく"],
+    "meaning": "continue",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["糸"],
+    "examples": ["続ける", "連続"]
+  },
+  {
+    "character": "損",
+    "on_yomi": ["そん"],
+    "kun_yomi": ["そこなう"],
+    "meaning": "loss, damage",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["扌"],
+    "examples": ["損", "損害"]
+  },
+  {
+    "character": "想",
+    "on_yomi": ["そう"],
+    "kun_yomi": [],
+    "meaning": "thought, idea",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["心"],
+    "examples": ["想像", "感想"]
+  },
+  {
+    "character": "戦",
+    "on_yomi": ["せん"],
+    "kun_yomi": ["たたかう"],
+    "meaning": "war, battle",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["戈"],
+    "examples": ["戦争", "戦う"]
+  },
+  {
+    "character": "勢",
+    "on_yomi": ["せい"],
+    "kun_yomi": ["いきおい"],
+    "meaning": "force, power",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["力"],
+    "examples": ["勢力", "勢い"]
+  },
+  {
+    "character": "数",
+    "on_yomi": ["すう"],
+    "kun_yomi": ["かず"],
+    "meaning": "number",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["攵"],
+    "examples": ["数", "数学"]
+  },
+  {
+    "character": "置",
+    "on_yomi": ["ち"],
+    "kun_yomi": ["おく"],
+    "meaning": "put, place",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["网"],
+    "examples": ["置く", "位置"]
+  },
+  {
+    "character": "鉄",
+    "on_yomi": ["てつ"],
+    "kun_yomi": [],
+    "meaning": "iron",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["金"],
+    "examples": ["鉄道", "地下鉄"]
+  },
+  {
+    "character": "感",
+    "on_yomi": ["かん"],
+    "kun_yomi": [],
+    "meaning": "feeling, sensation",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["心"],
+    "examples": ["感動", "感情"]
+  },
+  {
+    "character": "解",
+    "on_yomi": ["かい"],
+    "kun_yomi": ["とく"],
+    "meaning": "solve, explanation",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["角"],
+    "examples": ["理解", "解く"]
+  },
+  {
+    "character": "園",
+    "on_yomi": ["えん"],
+    "kun_yomi": ["その"],
+    "meaning": "garden",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["囗"],
+    "examples": ["公園", "園芸"]
+  },
+  {
+    "character": "愛",
+    "on_yomi": ["あい"],
+    "kun_yomi": [],
+    "meaning": "love",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["心"],
+    "examples": ["愛", "愛情"]
+  },
+  {
+    "character": "塩",
+    "on_yomi": ["えん"],
+    "kun_yomi": ["しお"],
+    "meaning": "salt",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["土"],
+    "examples": ["塩", "食塩"]
+  },
+  {
+    "character": "極",
+    "on_yomi": ["きょく"],
+    "kun_yomi": ["きわめる"],
+    "meaning": "extreme",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["木"],
+    "examples": ["極める", "南極"]
+  },
+  {
+    "character": "禁",
+    "on_yomi": ["きん"],
+    "kun_yomi": [],
+    "meaning": "prohibit",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["示"],
+    "examples": ["禁止", "禁煙"]
+  },
+  {
+    "character": "罪",
+    "on_yomi": ["ざい"],
+    "kun_yomi": ["つみ"],
+    "meaning": "crime",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["网"],
+    "examples": ["罪", "犯罪"]
+  },
+  {
+    "character": "資",
+    "on_yomi": ["し"],
+    "kun_yomi": [],
+    "meaning": "resources, capital",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["貝"],
+    "examples": ["資金", "資源"]
+  },
+  {
+    "character": "準",
+    "on_yomi": ["じゅん"],
+    "kun_yomi": [],
+    "meaning": "standard, prepare",
+    "jlpt_level_id": 3,
+    "stroke_count": 13,
+    "radicals": ["氵"],
+    "examples": ["準備", "基準"]
+  },
+  {
+    "character": "種",
+    "on_yomi": ["しゅ"],
+    "kun_yomi": ["たね"],
+    "meaning": "seed, kind",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["禾"],
+    "examples": ["種類", "種"]
+  },
+  {
+    "character": "雑",
+    "on_yomi": ["ざつ"],
+    "kun_yomi": [],
+    "meaning": "miscellaneous",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["隹"],
+    "examples": ["雑誌", "混雑"]
+  },
+  {
+    "character": "際",
+    "on_yomi": ["さい"],
+    "kun_yomi": ["きわ"],
+    "meaning": "occasion, edge",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["阝"],
+    "examples": ["国際", "際"]
+  },
+  {
+    "character": "算",
+    "on_yomi": ["さん"],
+    "kun_yomi": [],
+    "meaning": "calculate",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["竹"],
+    "examples": ["計算", "予算"]
+  },
+  {
+    "character": "察",
+    "on_yomi": ["さつ"],
+    "kun_yomi": [],
+    "meaning": "inspect, guess",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["宀"],
+    "examples": ["警察", "観察"]
+  },
+  {
+    "character": "構",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["かまえる"],
+    "meaning": "construct, mind",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["木"],
+    "examples": ["構造", "構える"]
+  },
+  {
+    "character": "関",
+    "on_yomi": ["かん"],
+    "kun_yomi": ["せき"],
+    "meaning": "connection, barrier",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["門"],
+    "examples": ["関係", "関東"]
+  },
+  {
+    "character": "境",
+    "on_yomi": ["きょう"],
+    "kun_yomi": ["さかい"],
+    "meaning": "boundary, region",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["土"],
+    "examples": ["境界", "国境"]
+  },
+  {
+    "character": "漁",
+    "on_yomi": ["ぎょ"],
+    "kun_yomi": [],
+    "meaning": "fishing",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["氵"],
+    "examples": ["漁業", "漁村"]
+  },
+  {
+    "character": "演",
+    "on_yomi": ["えん"],
+    "kun_yomi": [],
+    "meaning": "perform, act",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["氵"],
+    "examples": ["演技", "演説"]
+  },
+  {
+    "character": "慣",
+    "on_yomi": ["かん"],
+    "kun_yomi": ["なれる"],
+    "meaning": "get used to, accustomed",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["忄"],
+    "examples": ["慣れる", "習慣"]
+  },
+  {
+    "character": "管",
+    "on_yomi": ["かん"],
+    "kun_yomi": [],
+    "meaning": "pipe, control",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["竹"],
+    "examples": ["管理", "水管"]
+  },
+  {
+    "character": "銅",
+    "on_yomi": ["どう"],
+    "kun_yomi": [],
+    "meaning": "copper",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["金"],
+    "examples": ["銅", "銅像"]
+  },
+  {
+    "character": "適",
+    "on_yomi": ["てき"],
+    "kun_yomi": [],
+    "meaning": "suitable",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["辶"],
+    "examples": ["適当", "適応"]
+  },
+  {
+    "character": "精",
+    "on_yomi": ["せい"],
+    "kun_yomi": [],
+    "meaning": "spirit, energy",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["米"],
+    "examples": ["精神", "精密"]
+  },
+  {
+    "character": "製",
+    "on_yomi": ["せい"],
+    "kun_yomi": [],
+    "meaning": "manufacture",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["衣"],
+    "examples": ["製品", "製造"]
+  },
+  {
+    "character": "静",
+    "on_yomi": ["せい"],
+    "kun_yomi": ["しずか"],
+    "meaning": "quiet, calm",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["青"],
+    "examples": ["静か", "冷静"]
+  },
+  {
+    "character": "像",
+    "on_yomi": ["ぞう"],
+    "kun_yomi": [],
+    "meaning": "image, statue",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["亻"],
+    "examples": ["画像", "像"]
+  },
+  {
+    "character": "増",
+    "on_yomi": ["ぞう"],
+    "kun_yomi": ["ふえる"],
+    "meaning": "increase",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["土"],
+    "examples": ["増える", "増加"]
+  },
+  {
+    "character": "総",
+    "on_yomi": ["そう"],
+    "kun_yomi": [],
+    "meaning": "total, general",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["糸"],
+    "examples": ["総合", "総理"]
+  },
+  {
+    "character": "鼻",
+    "on_yomi": ["び"],
+    "kun_yomi": ["はな"],
+    "meaning": "nose",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["自"],
+    "examples": ["鼻", "鼻水"]
+  },
+  {
+    "character": "複",
+    "on_yomi": ["ふく"],
+    "kun_yomi": [],
+    "meaning": "duplicate, complex",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["衣"],
+    "examples": ["複雑", "複数"]
+  },
+  {
+    "character": "鳴",
+    "on_yomi": ["めい"],
+    "kun_yomi": ["なく"],
+    "meaning": "sound, cry",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["口"],
+    "examples": ["鳴る", "鳴き声"]
+  },
+  {
+    "character": "綿",
+    "on_yomi": ["めん"],
+    "kun_yomi": ["わた"],
+    "meaning": "cotton",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["糸"],
+    "examples": ["綿", "綿菓子"]
+  },
+  {
+    "character": "様",
+    "on_yomi": ["よう"],
+    "kun_yomi": ["さま"],
+    "meaning": "appearance, manner",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["木"],
+    "examples": ["様子", "様式"]
+  },
+  {
+    "character": "領",
+    "on_yomi": ["りょう"],
+    "kun_yomi": [],
+    "meaning": "territory, domain",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["頁"],
+    "examples": ["領土", "領収"]
+  },
+  {
+    "character": "緑",
+    "on_yomi": ["りょく"],
+    "kun_yomi": ["みどり"],
+    "meaning": "green",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["糸"],
+    "examples": ["緑", "緑色"]
+  },
+  {
+    "character": "練",
+    "on_yomi": ["れん"],
+    "kun_yomi": ["ねる"],
+    "meaning": "practice, train",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["糸"],
+    "examples": ["練習", "熟練"]
+  },
+  {
+    "character": "歴",
+    "on_yomi": ["れき"],
+    "kun_yomi": [],
+    "meaning": "history",
+    "jlpt_level_id": 3,
+    "stroke_count": 14,
+    "radicals": ["厂"],
+    "examples": ["歴史", "経歴"]
+  },
+  {
+    "character": "輪",
+    "on_yomi": ["りん"],
+    "kun_yomi": ["わ"],
+    "meaning": "ring, circle",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["車"],
+    "examples": ["輪", "輪郭"]
+  },
+  {
+    "character": "編",
+    "on_yomi": ["へん"],
+    "kun_yomi": ["あむ"],
+    "meaning": "compile, weave",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["糸"],
+    "examples": ["編集", "編む"]
+  },
+  {
+    "character": "箱",
+    "on_yomi": ["はこ"],
+    "kun_yomi": [],
+    "meaning": "box",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["竹"],
+    "examples": ["箱", "箱庭"]
+  },
+  {
+    "character": "熱",
+    "on_yomi": ["ねつ"],
+    "kun_yomi": ["あつい"],
+    "meaning": "heat",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["灬"],
+    "examples": ["熱い", "熱心"]
+  },
+  {
+    "character": "選",
+    "on_yomi": ["せん"],
+    "kun_yomi": ["えらぶ"],
+    "meaning": "choose, select",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["辶"],
+    "examples": ["選ぶ", "選挙"]
+  },
+  {
+    "character": "線",
+    "on_yomi": ["せん"],
+    "kun_yomi": [],
+    "meaning": "line",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["糸"],
+    "examples": ["線", "線路"]
+  },
+  {
+    "character": "導",
+    "on_yomi": ["どう"],
+    "kun_yomi": ["みちびく"],
+    "meaning": "lead, guide",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["寸"],
+    "examples": ["導く", "指導"]
+  },
+  {
+    "character": "談",
+    "on_yomi": ["だん"],
+    "kun_yomi": ["はなす"],
+    "meaning": "discuss, talk",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["言"],
+    "examples": ["談話", "対談"]
+  },
+  {
+    "character": "調",
+    "on_yomi": ["ちょう"],
+    "kun_yomi": ["しらべる"],
+    "meaning": "investigate, tune",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["言"],
+    "examples": ["調査", "調整"]
+  },
+  {
+    "character": "横",
+    "on_yomi": ["おう"],
+    "kun_yomi": ["よこ"],
+    "meaning": "side, horizontal",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["木"],
+    "examples": ["横", "横断"]
+  },
+  {
+    "character": "確",
+    "on_yomi": ["かく"],
+    "kun_yomi": ["たしか"],
+    "meaning": "certain, sure",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["石"],
+    "examples": ["確か", "確認"]
+  },
+  {
+    "character": "課",
+    "on_yomi": ["か"],
+    "kun_yomi": [],
+    "meaning": "section, lesson",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["言"],
+    "examples": ["課題", "授業課"]
+  },
+  {
+    "character": "器",
+    "on_yomi": ["き"],
+    "kun_yomi": ["うつわ"],
+    "meaning": "utensil, container",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["口"],
+    "examples": ["器", "楽器"]
+  },
+  {
+    "character": "賛",
+    "on_yomi": ["さん"],
+    "kun_yomi": ["さんぜん"],
+    "meaning": "approve, praise",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["貝"],
+    "examples": ["賛成", "賛美"]
+  },
+  {
+    "character": "賞",
+    "on_yomi": ["しょう"],
+    "kun_yomi": [],
+    "meaning": "reward, prize",
+    "jlpt_level_id": 3,
+    "stroke_count": 15,
+    "radicals": ["貝"],
+    "examples": ["賞", "受賞"]
+  },
+  {
+    "character": "機",
+    "on_yomi": ["き"],
+    "kun_yomi": ["はた"],
+    "meaning": "machine, mechanism",
+    "jlpt_level_id": 3,
+    "stroke_count": 16,
+    "radicals": ["木"],
+    "examples": ["機械", "機会"]
+  },
+  {
+    "character": "橋",
+    "on_yomi": ["きょう"],
+    "kun_yomi": ["はし"],
+    "meaning": "bridge",
+    "jlpt_level_id": 3,
+    "stroke_count": 16,
+    "radicals": ["木"],
+    "examples": ["橋", "橋梁"]
+  },
+  {
+    "character": "築",
+    "on_yomi": ["ちく"],
+    "kun_yomi": ["きずく"],
+    "meaning": "construct, build",
+    "jlpt_level_id": 3,
+    "stroke_count": 16,
+    "radicals": ["竹"],
+    "examples": ["築く", "建築"]
+  },
+  {
+    "character": "積",
+    "on_yomi": ["せき"],
+    "kun_yomi": ["つむ"],
+    "meaning": "pile up, accumulate",
+    "jlpt_level_id": 3,
+    "stroke_count": 16,
+    "radicals": ["禾"],
+    "examples": ["積む", "積極的"]
+  },
+  {
+    "character": "輸",
+    "on_yomi": ["ゆ"],
+    "kun_yomi": [],
+    "meaning": "transport, export",
+    "jlpt_level_id": 3,
+    "stroke_count": 16,
+    "radicals": ["車"],
+    "examples": ["輸送", "輸出"]
+  },
+  {
+    "character": "録",
+    "on_yomi": ["ろく"],
+    "kun_yomi": ["しるす"],
+    "meaning": "record",
+    "jlpt_level_id": 3,
+    "stroke_count": 16,
+    "radicals": ["金"],
+    "examples": ["記録", "録音"]
+  },
+  {
+    "character": "績",
+    "on_yomi": ["せき"],
+    "kun_yomi": [],
+    "meaning": "achievements",
+    "jlpt_level_id": 3,
+    "stroke_count": 17,
+    "radicals": ["糸"],
+    "examples": ["業績", "成果"]
+  },
+  {
+    "character": "講",
+    "on_yomi": ["こう"],
+    "kun_yomi": ["こうぎ"],
+    "meaning": "lecture, explain",
+    "jlpt_level_id": 3,
+    "stroke_count": 17,
+    "radicals": ["言"],
+    "examples": ["講義", "講演"]
+  },
+  {
+    "character": "職",
+    "on_yomi": ["しょく"],
+    "kun_yomi": ["しごと"],
+    "meaning": "occupation, job",
+    "jlpt_level_id": 3,
+    "stroke_count": 18,
+    "radicals": ["耳"],
+    "examples": ["職業", "職場"]
+  },
+  {
+    "character": "観",
+    "on_yomi": ["かん"],
+    "kun_yomi": ["みる"],
+    "meaning": "view, observe",
+    "jlpt_level_id": 3,
+    "stroke_count": 18,
+    "radicals": ["見"],
+    "examples": ["観察", "観光"]
+  },
+  {
+    "character": "額",
+    "on_yomi": ["がく"],
+    "kun_yomi": ["ひたい"],
+    "meaning": "amount, forehead",
+    "jlpt_level_id": 3,
+    "stroke_count": 18,
+    "radicals": ["頁"],
+    "examples": ["額", "額面"]
+  },
+  {
+    "character": "類",
+    "on_yomi": ["るい"],
+    "kun_yomi": [],
+    "meaning": "type, category",
+    "jlpt_level_id": 3,
+    "stroke_count": 18,
+    "radicals": ["頁"],
+    "examples": ["種類", "同類"]
+  },
+  {
+    "character": "願",
+    "on_yomi": ["がん"],
+    "kun_yomi": ["ねがう"],
+    "meaning": "wish, request",
+    "jlpt_level_id": 3,
+    "stroke_count": 19,
+    "radicals": ["頁"],
+    "examples": ["願う", "願い"]
+  },
+  {
+    "character": "識",
+    "on_yomi": ["しき"],
+    "kun_yomi": ["しる"],
+    "meaning": "knowledge, wisdom",
+    "jlpt_level_id": 3,
+    "stroke_count": 19,
+    "radicals": ["言"],
+    "examples": ["知識", "認識"]
+  },
+  {
+    "character": "競",
+    "on_yomi": ["きょう"],
+    "kun_yomi": ["きそい"],
+    "meaning": "compete",
+    "jlpt_level_id": 3,
+    "stroke_count": 20,
+    "radicals": ["立"],
+    "examples": ["競争", "競技"]
+  },
+  {
+    "character": "議",
+    "on_yomi": ["ぎ"],
+    "kun_yomi": ["はなす"],
+    "meaning": "discuss, debate",
+    "jlpt_level_id": 3,
+    "stroke_count": 20,
+    "radicals": ["言"],
+    "examples": ["議論", "会議"]
+  }
+]

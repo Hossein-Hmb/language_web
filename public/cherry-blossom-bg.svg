@@ -1,0 +1,53 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="grad1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#9B5CF6;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#FF73B9;stop-opacity:0.05" />
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1920" height="1080" fill="url(#grad1)"/>
+  
+  <!-- Cherry blossom branches -->
+  <g opacity="0.3" filter="url(#blur)">
+    <!-- Branch 1 -->
+    <path d="M100 300 Q400 250 800 400 Q1200 550 1600 300" stroke="#FF73B9" stroke-width="6" fill="none" opacity="0.4"/>
+    
+    <!-- Flowers on branch 1 -->
+    <circle cx="200" cy="280" r="8" fill="#FF73B9" opacity="0.6"/>
+    <circle cx="350" cy="260" r="6" fill="#9B5CF6" opacity="0.5"/>
+    <circle cx="500" cy="290" r="7" fill="#FF73B9" opacity="0.7"/>
+    <circle cx="700" cy="380" r="9" fill="#9B5CF6" opacity="0.6"/>
+    <circle cx="900" cy="450" r="6" fill="#FF73B9" opacity="0.5"/>
+    <circle cx="1100" cy="480" r="8" fill="#9B5CF6" opacity="0.7"/>
+    <circle cx="1300" cy="420" r="7" fill="#FF73B9" opacity="0.6"/>
+    <circle cx="1500" cy="330" r="9" fill="#9B5CF6" opacity="0.5"/>
+    
+    <!-- Branch 2 -->
+    <path d="M0 600 Q300 550 600 700 Q900 850 1200 600 Q1500 350 1920 500" stroke="#9B5CF6" stroke-width="4" fill="none" opacity="0.3"/>
+    
+    <!-- Flowers on branch 2 -->
+    <circle cx="150" cy="580" r="7" fill="#9B5CF6" opacity="0.5"/>
+    <circle cx="300" cy="570" r="6" fill="#FF73B9" opacity="0.6"/>
+    <circle cx="450" cy="620" r="8" fill="#9B5CF6" opacity="0.4"/>
+    <circle cx="600" cy="700" r="7" fill="#FF73B9" opacity="0.7"/>
+    <circle cx="750" cy="770" r="9" fill="#9B5CF6" opacity="0.5"/>
+    <circle cx="900" cy="820" r="6" fill="#FF73B9" opacity="0.6"/>
+    <circle cx="1050" cy="750" r="8" fill="#9B5CF6" opacity="0.7"/>
+    <circle cx="1200" cy="600" r="7" fill="#FF73B9" opacity="0.5"/>
+    
+    <!-- Additional scattered petals -->
+    <circle cx="400" cy="150" r="4" fill="#FF73B9" opacity="0.3"/>
+    <circle cx="800" cy="200" r="3" fill="#9B5CF6" opacity="0.4"/>
+    <circle cx="1200" cy="100" r="5" fill="#FF73B9" opacity="0.3"/>
+    <circle cx="1600" cy="180" r="4" fill="#9B5CF6" opacity="0.4"/>
+    <circle cx="300" cy="900" r="3" fill="#FF73B9" opacity="0.3"/>
+    <circle cx="700" cy="950" r="4" fill="#9B5CF6" opacity="0.4"/>
+    <circle cx="1100" cy="920" r="5" fill="#FF73B9" opacity="0.3"/>
+    <circle cx="1500" cy="980" r="3" fill="#9B5CF6" opacity="0.4"/>
+  </g>
+</svg>
