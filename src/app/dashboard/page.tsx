@@ -59,8 +59,9 @@ export default async function DashboardPage() {
       .gte("start_time", thirtyDaysAgoIso),
   ]);
 
-  const safeCount = (res: any) =>
-    res?.count && typeof res.count === "number" ? res.count : 0;
+  type CountHeadResponse = { count: number | null } | null | undefined;
+  const safeCount = (res: CountHeadResponse) =>
+    res && typeof res.count === "number" ? res.count : 0;
 
   const dueToday = safeCount(dueTodayRes);
   const mastered = safeCount(masteredRes);

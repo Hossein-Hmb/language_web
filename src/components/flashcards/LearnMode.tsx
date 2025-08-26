@@ -54,7 +54,9 @@ export function LearnMode({ jlptLevel, onComplete }: LearnModeProps) {
           .eq("user_id", userId);
         if (progressErr) throw progressErr;
         const learnedIds = new Set(
-          (progressRows || []).map((r: any) => r.kanji_id)
+          ((progressRows as { kanji_id: string }[] | null) || []).map(
+            (row) => row.kanji_id
+          )
         );
 
         // Fetch candidate kanji for this JLPT level
@@ -85,8 +87,10 @@ export function LearnMode({ jlptLevel, onComplete }: LearnModeProps) {
         }
 
         setKanjiBatch(batch as Kanji[]);
-      } catch (e: any) {
-        setError(e.message ?? "Failed to create learn batch");
+      } catch (e: unknown) {
+        const message =
+          e instanceof Error ? e.message : "Failed to create learn batch";
+        setError(message);
       } finally {
         setIsLoading(false);
       }
@@ -122,7 +126,7 @@ export function LearnMode({ jlptLevel, onComplete }: LearnModeProps) {
         .in("kanji_id", ids);
       if (updateErr) throw updateErr;
     } finally {
-      onComplete([]);
+      onComplete();
     }
   };
 
@@ -211,10 +215,12 @@ export function LearnMode({ jlptLevel, onComplete }: LearnModeProps) {
           <div className="font-semibold mb-3 text-white">Examples</div>
           <ul className="text-[#A3A7B7] space-y-2">
             {Array.isArray(k.examples) ? (
-              (k.examples as any[]).slice(0, 4).map((e: any, i: number) => (
-                <li key={i} className="flex items-center gap-2">
+              (k.examples as unknown[]).slice(0, 4).map((example, index) => (
+                <li key={index} className="flex items-center gap-2">
                   <div className="w-1 h-1 bg-[#9B5CF6] rounded-full"></div>
-                  {typeof e === "string" ? e : JSON.stringify(e)}
+                  {typeof example === "string"
+                    ? example
+                    : JSON.stringify(example)}
                 </li>
               ))
             ) : (
